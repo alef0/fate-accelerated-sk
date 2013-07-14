@@ -219,3 +219,22 @@ Pri zisťovaní výsledku hodu je potrebné vygenerovať náhodné číslo, čo 
 V týchto pravidlách predpokladáme, že budete používať fateové kocky, ale to neznamená, že balíček osudu je menejcenný. Vždy, keď máš podľa pravidiel hodiť kockami, znamená to, že si môžeš potiahnuť z balíčka osudu.
 </div>
 
+Výsledky hodu
+-------------
+Potom, čo hodíš kockami, pripočítaj k výsledku bonus prístupu (povieme o ňom o chvíľu viac) a ďalšie prípadné bonusy získané vďaka aspektom či špecialitám. Porovnaj celkový súčet s cieľovým číslom, ktoré bude buď pevne stanovené alebo bude predstavovať výsledok Sprievodcovho hodu za nehráčsku postavu. Na základe porovnania zistíš výsledok:
+
+> Určenie náročnosti: str. XXX [37]
+
+*	 **Neuspeješ** v prípade, že tvoj celkový súčet *je menší* než protivníkov celkový súčet.
+*	 **Nastane remíza**, ak tvoj celkový súčet *je rovný* protivníkovmu súčtu.
+*	 **Uspeješ** vtedy, keď tvoj celkový súčet *je väčší* než protivníkov celkový súčet.
+*	 **Uspeješ vo veľkom štýle**, ak tvoj celkový súčet *je aspoň o tri väčší* než protivníkov celkový súčet.
+
+Teraz, keď sme pokryli výsledky hodov, je čas porozprávať sa o akciách a o tom, ako s nimi súvisia výsledky hodov.
+
+
+Akcie
+-----
+Opísal si, čo sa tvoja postava pokúša spraviť a dohodol si sa na tom, že je istá šanca, že sa jej to nemusí podariť. V ďalšom kroku urči, aká **akcia** najlepšie vystihuje, čo chceš dosiahnuť. Jestvujú štyri základné akcie, ktoré pokryjú akýkoľvek úmysel v hre.
+
+### Získanie výhody
