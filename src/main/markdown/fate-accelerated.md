@@ -128,7 +128,7 @@ Teraz je čas zvoliť **prístupy**, ktoré popisujú *akým spôsobom* uskutoč
 *	rýchly
 *	ľstivý
 
-Každý prístup je ohodnotený bonusom. Vyber si jeden prístup na úrovni Dobrý (+3), dva Obstojné (+2), dva Všedné (+1) a jeden Slabý (+0). Neskôr si ich môžeš vylepšiť. O tom, čo presne jednotlivé prístupy znamenajú a ako ich použiť, budeme rozprávať v časti <span class="how-to-do-stuff-outcomes-approaches-and-actions em">Ako robiť veci: Následky, prístupy a akcie</span>.
+Každý prístup je ohodnotený bonusom. Vyber si jeden prístup na úrovni Dobrý (+3), dva Obstojné (+2), dva Všedné (+1) a jeden Slabý (+0). Neskôr si ich môžeš vylepšiť. O tom, čo presne jednotlivé prístupy znamenajú a ako ich použiť, budeme rozprávať v časti <span class="how-to-do-stuff-outcomes-approaches-and-actions em">Ako robiť veci: Následky, prístupy a akcie XXX</span>.
 
 >	Čo znamenajú jednotlivé prístupy? str. XXX [18]
 
@@ -178,4 +178,23 @@ Za normálnych okolností odporúča *FAE* na začiatok jednu špecialitu.
 Samozrejme, ak ideš hrať Fate prvý krát, je možno lepšie, ak si svoju prvú špecialitu zvolíš až potom, čo si chvíľu zahráš, a odhalíš, čo by ti ako špecialita mohlo vyhovovať najviac. V takom prípade si špecialitu vyber buď počas prvého sedenia alebo po jeho skončení.
 
 Ak si skúsený hráč Fate, rýchlo zistíš, že tak ako vo *Fate Core*, môže tvoja postava použiť až tri špeciality bez toho, aby sa jej znižovala obnova. V takom prípade sa orientuj podľa najmenej skúseného hráča. Ak máš v hre nováčika, ktorý si zvolil len jednu špecialitu, mali by to urobiť aj ostatní. Ak ste skupina samých skúsených hráčov a chcete začať so silnejšími postavami, zvoľte si už na začiatku tri špeciality -- nie je to vôbec problém.
+</div>
+
+Ako robiť veci: výsledky hodov, akcie a prístupy
+================================================
+Poďme už niečo robiť. Chceš preskočiť z jedného vlaku na druhý. Chceš prehľadať celú knižnicu, aby si našiel kúzlo, ktoré naozaj potrebuješ. Potrebuješ odlákať stráže, aby si sa mohol dostať do pevnosti. Ako určiš, čo sa stane?
+
+Najprv opíšeš, čo sa tvoja postava snaží urobiť. Jej aspekty sú dobrým radcom, čo *dokážeš*. Ak máš aspekt, ktorý hovorí, že vieš kúzliť, potom zošli kúzlo. Ak ťa aspekty opisujú ako šermiara, vytas meč a švihni ním. Tieto príbehové podrobnosti však nemajú žiaden dodatočný pravidlový dopad. Tvoje kúzlo či meč ti neposkytujú žiaden bonus, ibaže by si sa rozhodol minúť bod osudu na **vyvolanie** vhodného aspektu. Často už len samotné využitie aspektu na to, aby si v príbehu vyhlásil niečo za pravdivé, je veľkým bonusom!
+
+Ako zistíš, či si uspel? Neraz uspeješ bez problémov, pretože to, o čo sa snažíš, nie je náročné a nik ti v tom nebráni. Ak tvoje zlyhanie vedie k zvratu v príbehu alebo ak sa môže stať niečo nepredvídané, je čas hodiť kockami.
+
+<div markdown="1" class="blacksidebar">
+# Konanie postavy: tridsaťsekundové zhrnutie
+
+1.	Opíš, čo chceš, aby tvoja postava spravila. Zisti, či ti v tom niekto alebo niečo môže zabrániť.
+2.	Rozhodni sa, akú akciu vykonáš: *získanie výhodu*, *prekonanie*, *útok* či *obrana*.
+3.	Urči prístup, ktorý použiješ.
+4.	Hoď kockami a pridaj bonus za použitý prístup.
+5.	Rozhodni sa, či upravíš svoj hod pomocou aspektov.
+6.	Zisti výsledok hodu.
 </div>
