@@ -1,0 +1,21 @@
+.example {
+	font-weight: bold;
+}
+.exampleLabel {
+	font-weight: normal;
+	font-size: large;
+}
+.blacksidebar {
+	background: black;
+	color: white;
+	padding: 12pt;
+	margin-top: 6pt;
+}
+.blacksidebar h1 {
+	background: black;
+	color: white;
+	font-size: large;
+	text-align: center;
+	padding-top: 0pt;
+	margin-top: 0pt;
+}
