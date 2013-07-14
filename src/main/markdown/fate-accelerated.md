@@ -16,7 +16,7 @@ Ku hre budete potrebovať:
 
 >	Ak nechcete používať fateové kocky, nemusíte. Namiesto nich sa dajú použiť aj klasické šesťstenné kocky: 5 a 6 považujte za [**+**], 1 a 2 za [**-**] a 3 a 4 za [**█**].
 
-*	balíček kariet **Deck of Fate** je alternatívou k fateovým kockám. Jeho karty napodobňujú pravdepodobnosť kociek a sú navrhnuté podobným spôsobom. Tento balíček bude dostupný z vydavateľstval Evil Hat v roku 2013, resp. 2014. 
+*	balíček kariet osudu **Deck of Fate** je alternatívou k fateovým kockám. Jeho karty napodobňujú pravdepodobnosť kociek a sú navrhnuté podobným spôsobom. Tento balíček bude dostupný z vydavateľstval Evil Hat v roku 2013, resp. 2014. 
 *	**listy postáv**, pre každého hráča jeden. Môžete si ich bezplatne stiahnuť z *www.evilhat.com*.
 *	**žlté samolepiace papieriky** alebo podobné ústrižky papiera
 *	**žetóny pre body osudu**. Môžete použiť žetóny z pokru, korálky, drobné mince a podobne. Budete ich potrebovať za pár hrstí -- zhruba 30 či 40.
@@ -198,3 +198,24 @@ Ako zistíš, či si uspel? Neraz uspeješ bez problémov, pretože to, o čo sa
 5.	Rozhodni sa, či upravíš svoj hod pomocou aspektov.
 6.	Zisti výsledok hodu.
 </div>
+
+Kocky či karty?
+---------------
+Pri zisťovaní výsledku hodu je potrebné vygenerovať náhodné číslo, čo je možné dosiahnuť dvoma spôsobmi: buď hodom štyroch fateových kociek alebo potiahnutím karty z balíčka osudu. 
+
+**Fateové kocky**: Špeciálne kocky (niekedy nazývané aj fudgeové kocky, podľa hry, pre ktorú boli pôvodne navrhnuté) sú jedným zo spôsobov určenia výsledku hodu. Vždy budeš hádzať štvoricou fateových kociek. Každá kocka padne buď ako **[-]**, [**█**] alebo ako [**+**]. Spočítaním jednotlivých čísiel na kockách  zistíš celkový výsledok hodu. Napríklad:
+
+[**-**] [**+**] [**█**] [**+**] = +1
+
+[**+**] [**-**] [**█**] [**█**] = 0
+
+[**+**] [**+**] [**+**] [**-**] = +2
+
+[**-**] [**█**] [**█**] [**█**] = -1
+
+**Balíček osudu:** Balíček osudu je balíček kariet, ktorý napodobňuje pravdepodobnosť fateových kociek. Môžeš ho použiť namiesto nich -- oba spôsoby budú fungovať bez problémov.
+
+<div markdown="1" class="blacksidebar">
+V týchto pravidlách predpokladáme, že budete používať fateové kocky, ale to neznamená, že balíček osudu je menejcenný. Vždy, keď máš podľa pravidiel hodiť kockami, znamená to, že si môžeš potiahnuť z balíčka osudu.
+</div>
+
