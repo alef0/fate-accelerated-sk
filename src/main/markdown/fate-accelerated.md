@@ -192,7 +192,7 @@ Ako zistíš, či si uspel? Neraz uspeješ bez problémov, pretože to, o čo sa
 # Konanie postavy: tridsaťsekundové zhrnutie
 
 1.	Opíš, čo chceš, aby tvoja postava spravila. Zisti, či ti v tom niekto alebo niečo môže zabrániť.
-2.	Rozhodni sa, akú akciu vykonáš: *získanie výhodu*, *prekonanie*, *útok* či *obrana*.
+2.	Rozhodni sa, akú akciu vykonáš: *získanie výhody*, *zdolanie*, *útok* či *obrana*.
 3.	Urči prístup, ktorý použiješ.
 4.	Hoď kockami a pridaj bonus za použitý prístup.
 5.	Rozhodni sa, či upravíš svoj hod pomocou aspektov.
@@ -238,3 +238,61 @@ Akcie
 Opísal si, čo sa tvoja postava pokúša spraviť a dohodol si sa na tom, že je istá šanca, že sa jej to nemusí podariť. V ďalšom kroku urči, aká **akcia** najlepšie vystihuje, čo chceš dosiahnuť. Jestvujú štyri základné akcie, ktoré pokryjú akýkoľvek úmysel v hre.
 
 ### Získanie výhody
+**Získanie výhody** predstavuje hocičo, o čo sa pokúsiš s úmyslom pomôcť sebe alebo niektorému z kamarátov. Chvíľa, keď sa snažíš veľmi pozorne namieriť protónový blaster, dlhé hodiny, ktoré stráviš v knižnici rešeršami alebo podtknutie darebáka, ktorý sa ťa snaží okradnúť -- všetko sú to činnosti, ktoré sa považujú za získavanie výhody. Cieľ tvojej akcie môže mať možnosť použiť akciu obrany, ktorou ťa zastaví. Výhoda, ktorú získaš, ti umožňuje urobiť jednu z nasledovných troch vecí:
+
+*	Vytvoriť nový situačný aspekt.
+*	Objaviť existujúci situačný aspekt alebo aspekt inej postavy, o ktorom si netušil.
+*	Využitie výhody vyplývajúcej z existujúceho aspektu.
+
+>	Viac o aspektoch: str. XXX (25)
+
+**Ak vytváraš nový aspekt alebo objavuješ existujúci:**
+
+*	**Ak neuspeješ:** Buď sa ti vôbec nepodarilo vytvoriť či objaviť nový aspekt alebo si ho vytvoril, či objavil, ale zároveň dávaš *oponentovi* právo vyvolať ho zadarmo. Druhá možnosť funguje najlepšie vtedy, ak aspekt, ktorý si vytvoril či objavil predstavuje niečo, z čoho môžu ťažiť výhodu aj ostatní (napr. ***Náročný terén***). Je tiež možné, že budeš musieť preformulovať aspekt tak, aby bolo jasné, že dáva výhodu inej postave miesto teba. Sprav to akýmkoľvek spôsobom, ktorý dáva zmysel hráčovi, ktorý získa právo bezplatného vyvolania aspektu. Vyvolať tento aspekt môžeš aj ty, ak si to želáš, ale budeš musieť zaplatiť bod osudu.
+*	**Ak zremizuješ:** Ak vytváraš nový aspekt, získavaš **posilnenie**. Pomenuj ho a máš právo vyvolať ho raz bezplatne -- po použití zmizne. Ak sa pokúšaš objaviť existujúci aspekt, považuj to za úspech (pozri nižšie).
+
+>	Posilnenia: str. XXX [26]
+
+*	**Ak uspeješ:** Podarilo sa ti vytvoriť, resp. objaviť aspekt. Ty alebo tvoj spojenec ho môže raz bezplatne vyvolať. Napíš aspekt na lístoček alebo samolepku a polož ho na stôl.
+*	**Ak uspeješ vo veľkom štýle:** Podarilo sa ti vytvoriť, resp. objaviť aspekt a buď ty alebo tvoj spojenec ho môže bezplatne vyvolať až *dvakrát*. Obvykle nemôžeš vyvolať pri jednom rovnaký aspekt dvakrát, ale toto je výnimka: úspech vo veľkom štýle ti poskytuje VEĽKÚ výhodu!
+
+**Ak sa pokúšaš využiť výhodu z aspektu, o ktorom už vieš:**
+*	**Ak neuspeješ:** Z aspektu nezískať žiadnu výhodu. V budúcnosti ho samozrejme môžeš vyvolať, ak chceš, ale len za cenu zaplatenia bodu osudu.
+*	**Ak zremizuješ alebo uspeješ:** Dostaneš jedno bezplatné vyvolanie aspektu, ktoré môžeš buď ty alebo niektorý tvoj spojenec neskôr použiť. Na lístočku s názvom aspektu môžeš nakresliť krúžok alebo štvorček, ktorý po bezplatnom vyvolaní začiarkneš.
+*	**Ak uspeješ vo veľkom štýle:** Získavaš *dve* bezplatné vyvolania aspektu, ktoré môže využiť i tvoj spojenec, ak chceš.
+
+<div markdown="1" class="blacksidebar">
+# Akcie a výsledky hodu: tridsaťsekundová verzia
+## Získanie výhody vytvorením či objavením aspektu
+*	**Neúspech:** Nevytvoríš ani neobjavíš, alebo ak áno, tak tvoj protivník získa bezplatné vyvolanie.
+*	**Remíza:** **Posilnenie** pri vytváraní nového aspektu alebo úspech, ak objavuješ jestvujúci.
+*	**Úspech:** Vytvor či objav aspekt, získaj bezplatné vyvolanie.
+*	**Úspech vo veľkom štýle:** Vytvor či objav aspekt, získaj dve bezplatné vyvolania.
+
+## Získanie výhody z aspektu, o ktorom už vieš
+*	**Neúspech:** Žiaden benefit. 
+*	**Remíza:** Získaj jedno bezplatné vyvolanie tohto aspektu.
+*	**Úspech:** Získaj jedno bezplatné vyvolanie tohto aspektu.
+*	**Úspech vo veľkom štýle:** Získaj dve bezplatné vyvolania tohto aspektu.
+
+## Zdolanie
+*	**Neúspech:** Buď zlyháš alebo uspeješ za cenu veľkej obety. 
+*	**Remíza:** Uspeješ za cenu malej obety.
+*	**Úspech:** Dosiahneš svoj úmysel.
+*	**Úspech vo veľkom štýle:** Dosiahneš svoj úmysel a vytvoríš **posilnenie**.
+
+## Útok
+*	**Neúspech:** Žiaden účinok.
+*	**Remíza:** Útok neuškodí cieľu, ale získaš **posilnenie**
+*	**Úspech:** Útok zasiahne cieľ a spôsobí poškodenie.
+*	**Úspech vo veľkom štýle:** Útok zasiahne cieľ a spôsobí jeho poškodenie. Poškodenie môžeš znížiť o jedna a vytvoriť tak **posilnenie**.
+
+## Obrana
+*	**Neúspech:** Utrpíš ujmu podľa protivníkovho úspechu.
+*	**Remíza:** Pozri sa na akciu protivníka, aby si zistil, čo sa stalo.
+*	**Úspech:** Protivník nedosiahne, čo chcel.
+*	**Úspech vo veľkom štýle:** Protivník nedosiahne, čo chcel, a navyše získaš **posilnenie**.
+</div>
+
+Zdolanie
+--------
