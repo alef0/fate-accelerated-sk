@@ -296,3 +296,38 @@ Opísal si, čo sa tvoja postava pokúša spraviť a dohodol si sa na tom, že j
 
 Zdolanie
 --------
+Akciu *Zdolanie* použi, ak sa potrebuješ dostať za čosi, čo ti bráni v dosiahnutí nejakého cieľa -- vylomenie zámku, vyslobodenie sa z pút, preskočenie cez priepasť, prelet loďou cez pole asteroidov. Činnosti, ktorými eliminuješ alebo zmeníš nepohodlný situačný aspekt, predstavujú obvykle akciu Zdolania (neskôr o tom porozprávame v kapitole *Aspekty a body osudu*). Cieľ tvojej akcie môže dostať príležitosť použiť akciu Obrana, ktorou ťa môže zastaviť.
+
+> Určenie náročnosti: str. XXX [37]
+
+> Rušenie situačných aspektov: str. XXX [26]
+
+* **Ak neuspeješ:* Máš dilemu. Buď jednoducho zlyháš -- dvere ostanú zamknuté, grázel ostane stáť medzi tebou a vchodom, nepriateľská loď ti ostane ***Neustále v pätách*** -- alebo uspeješ za cenu veľkej obety. Možno stratíš dôležitý predmet, ktorý nesieť, možno utrpíš telesnú či duševnú ujmu. Sprievodca ti pomôže určiť, čo presne bude cena, ktorú zaplatíš za úspech.
+* **Ak zremizuješ:** Dosiahneš svoj cieľ, ale musíš zaplatiť drobnú cenu. Sprievodca môže zaviesť istú komplikáciu, alebo predostrieť ťažkú dilemu (môžeš zachrániť len jedného priateľa, ale nie oboch), či vyvolať dejový zvrat. Pozri časť *"Úspech za istú cenu"* vo *Vedení hry* v príručke *Fate Core**, kde nájdeš viaceré nápady.
+* **Ak uspeješ:** Podarilo sa ti dosiahnuť, čo si chcel. Zámok sa otvorí, prešmykneš sa okolo grázla, čo ti blokoval vstup, strasieš sa nepriateľskej lode, čo máš v pätách.
+* **Ak uspeješ vo veľkom štýle:** Vyhodnotí sa podobne ako úspech uvedený vyššie, a navyše dostaneš posilnenie.
+
+Útok
+----
+Akciu **Útok** použi vtedy, ak sa pokúsiš niekomu ublížiť, či už telesne alebo duševne. Seknutie mečom, výstrel z blastrovej pušky alebo urážlivá nadávka, ktorou chceš ublížiť protivníkovi. (Bližšie o tom rozprávame v kapitole *Och! Poškodenie, stres a ujma*, ale najdôležitejšia vec je: Ak je niekto príliš zranený, bude vyradený zo scény.) Cieľ tvojho útoku má možnosť použiť obrannú akciu, ktorou ťa zastaví.
+
+>	Poškodenie, stres a ujma: str. 22
+
+* **Ak zlyháš:** Tvoj útok sa nepodaril. Protivník vykryl tvoj sek, tvoj výstrel minul, tvoja nadávka vyvolala búrlivý smiech.
+* **Ak remizuješ:** Tvoj útok sa nepodaril natoľko, aby spôsobil ujmu, dostávaš však posilnenie.
+* **Ak uspeješ:** Tvoj útok trafil protivníka a spôsobil mu ujmu. Pozri časť *Och! Poškodenie, stres a ujma*.
+* **Ak uspeješ vo veľkom štýle:** Zasiahneš a spôsobíš poškodenie či zranenie a navyše máš možnosť znížiť toto poškodenie o jeden bod a získať posilnenie.
+
+>	Spôsobovanie poškodenia a zranenia: str. 22
+
+Obrana
+------
+Akciu **Obrana** používaš vtedy, ak sa aktívne snažíš zabrániť niekomu v ostatných troch akciách -- chceš vykryť úder mečom, ostať stáť na nohách, zablokovať vchod a podobne. Túto akciu zvyčajne vykonáš počas **ťahu niekoho iného**, čím zareaguješ na ich pokus zaútočiť, zdolať či získať výhodu. Hádzať môžeš aj vtedy, ak chceš brániť neútočným akciám či útoku na niekoho iného, ale musíš obhájiť, že to dokážeš. Ak s tým väčšina ľudí pri stole bude súhlasiť, nie je to problém. Niekedy sa tiež hodí, keď poukážeš na príslušný situačný aspekt, ktorým svoju obranu obhájiš. V takom prípade sa však staneš cieľom pre akékoľvek zlé výsledky.
+
+* **Ak zlyháš:** Staneš sa obeťou všetkého, čo poskytne protivníkovi jeho úspech.
+* **Ak remizuješ alebo uspeješ:** Veci sa ti nevyvinuli až tak zle. Pozri sa na popis protivníkovej akcie a urči podľa nej, čo sa stane.
+* **Ak uspeješ vo veľkom štýle:** Nielenže tvoj oponent nedostane, čo si zaumienil, ale navyše dostaneš posilnenie.
+
+Prijatie pomoci
+---------------
+Ktorýkoľvek zo spojencov ti môže pomôcť vo vykonaní akcie. Ak sa tak stane, vzdá sa svojej akcie v danej výmene a opíše spôsob, ktorým ti poskytne pomoc. Za každého spojenca, ktorý ti takto pomôže, získaš +1 k hodu. Zvyčajne ti takto môžu pomôcť len jeden či dvaja ľudia, kým si nezačnú zavadzať. Sprievodca rozhodne, koľko pomocníkov môžeš najviac získať.
