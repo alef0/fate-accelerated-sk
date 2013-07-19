@@ -124,11 +124,12 @@ Teraz je čas zvoliť **prístupy**, ktoré popisujú *akým spôsobom* uskutoč
 *	opatrný
 *	chytrý
 *	ohurujúci
-*	násilný
+*	rázny
 *	rýchly
 *	ľstivý
 
-Každý prístup je ohodnotený bonusom. Vyber si jeden prístup na úrovni Dobrý (+3), dva Obstojné (+2), dva Všedné (+1) a jeden Slabý (+0). Neskôr si ich môžeš vylepšiť. O tom, čo presne jednotlivé prístupy znamenajú a ako ich použiť, budeme rozprávať v časti <span class="how-to-do-stuff-outcomes-approaches-and-actions em">Ako robiť veci: Následky, prístupy a akcie XXX</span>.
+Každý prístup je ohodnotený bonusom. Vyber si jeden prístup na úrovni Dobrý (+3), dva Obstojné (+2), dva Všedné (+1) a jeden Slabý (+0). Neskôr si ich môžeš vylepšiť. O tom, čo presne jednotlivé prístupy znamenajú a ako ich použiť, budeme rozprávať v časti <span class="how-to-do-stuff-outcomes-approaches-and-actions em">Ako robiť veci: 
+>Následky, prístupy a akcie XXX</span>.
 
 >	Čo znamenajú jednotlivé prístupy? str. XXX [18]
 
@@ -154,17 +155,17 @@ V systéme Fate používame stupnicu prídavných mien a čísiel, ktorými ohod
 Zvolené prístupy často významne popisujú tvoju postavu. Tu je niekoľko príkladov:
 
 *	**Surovec:**
-	Násilný +3, Opatrný a Ohurujúci +2, Ľstivý a Rýchly +1, Chytrý +0
+	Rázny +3, Opatrný a Ohurujúci +2, Ľstivý a Rýchly +1, Chytrý +0
 *	**Hviezda:**
-	Rýchly +3, Násilný a Ohurujúci +2, Chytrý a opatrný +1, Ľstivý +0
+	Rýchly +3, Rázny a Ohurujúci +2, Chytrý a opatrný +1, Ľstivý +0
 *	**Figliar:**
-	Chytrý +3, Ľstivý a Ohurujúci +2, Násilný a Rýchly +1, Opatrný +0
+	Chytrý +3, Ľstivý a Ohurujúci +2, Rázny a Rýchly +1, Opatrný +0
 *	**Ochranca:**
-	Opatrný +3, Násilný a Chytrý +2, Ľstivý a Rýchly +1, Ohurujúci +0
+	Opatrný +3, Rázny a Chytrý +2, Ľstivý a Rýchly +1, Ohurujúci +0
 *	**Zlodej:**
-	Ľstivý +3, Opatrný a Rýchly +2, Chytrý a Ohurujúci  +1, Násilný +0
+	Ľstivý +3, Opatrný a Rýchly +2, Chytrý a Ohurujúci  +1, Rázny +0
 *	**Chrabrý šermiar:**
-	Ohurujúci +3, Rýchly a Chytrý +2, Násilný a Ľstivý +1, Opatrný +0
+	Ohurujúci +3, Rýchly a Chytrý +2, Rázny a Ľstivý +1, Opatrný +0
 
 ### Špeciality a Obnova
 **Špecialita** je zvláštny rys, ktorý mení spôsob, fungovania niektorého z prístupov tvojej postavy. Obvykle poskytuje špecialita nejaký bonus (takmer vždy je to +2) k istému prístupu v prípade, že je spojený s konkrétnou akciou za istých okolností. O špecialitách budeme ešte hovoriť neskôr v príslušnej časti. Na začiatku si vyber jednu špecialitu (alebo, ak ti to vyhovuje viac, vyber ju až počas hry). Ak sa neskôr tvoja postava zlepší, budeš si môcť zvoliť ďalšie špeciality.
@@ -331,3 +332,124 @@ Akciu **Obrana** používaš vtedy, ak sa aktívne snažíš zabrániť niekomu 
 Prijatie pomoci
 ---------------
 Ktorýkoľvek zo spojencov ti môže pomôcť vo vykonaní akcie. Ak sa tak stane, vzdá sa svojej akcie v danej výmene a opíše spôsob, ktorým ti poskytne pomoc. Za každého spojenca, ktorý ti takto pomôže, získaš +1 k hodu. Zvyčajne ti takto môžu pomôcť len jeden či dvaja ľudia, kým si nezačnú zavadzať. Sprievodca rozhodne, koľko pomocníkov môžeš najviac získať.
+
+Zvoľ si svoj prístup
+--------------------
+Ako sme spomenuli v časti *Čím chceš byť?*, jestvuje šesť prístupov, ktoré opisujú, ako vykonávaš činnosti.
+
+> Čím chceš byť? str. XXX [8]
+
+*	**Opatrný:** Opatrná akcia znamená, že pozorne dbáš na detaily a nechávaš si čas na to, aby si úlohu dokončil dobre. Starostlivé mierenie ďalekosiahleho výstrelu z luku. Stráženie s očami na stopkách. Zablokovanie bankového alarmu.
+*	**Chytrý:**	Chytrá akcia si žiada rýchle rozhodovanie, riešenie zložitých problémov, či zvažovanie náročných úloh s mnohými premennými prvkami. Nájdenie slabiny v šermiarskom štýle protivníka. Nájdenie oslabenému miesta v hradbách pevnosti. Oprava počítača.
+*	**Ohurujúci:** Ohurujúca akcia k tebe pritiahne pozornosť: je štýlová a teatrálna. Inšpiratívny príhovor tvojej armáde. Strápnenie protivníka v dueli. Vytvorenie magického ohňostorja.
+*	**Rázny:** Rázna akcia neberie ohľady a predstavuje hrubú silu. Zápasenie s medveďom. Pozeranie do očí grázlovi. Zoslanie veľkého silného kúzla.
+*	**Rýchly:** Rýchla akcia vyžaduje svižný a obratný pohyb. Uskočenie pred letiacim šípom. Schopnosť uštedriť prvú ranu. Zablokovanie bomby, čo tiká 3... 2... 1...
+*	**Ľstivo:** Ľstivá akcia dáva dôraz na zákernosť, odpútanie pozornosti a klam. Schopnosť vykecať sa zo zatknutia. Vreckárstvo. Finty v šerme.
+
+Každá postava má každý prístup ohodnotený bonusom od +0 do +3. Tento bonus pripočítaj k hodu kockou, čím určíš, ako dobre sa postave podarilo vykonať akciu, ktorú si opísal.
+
+Inštikt ti prikáže zvoliť akciu, ktorá ti dá najväčší bonus, však? Takto to však nefunguje. Prístup, ktorý si zvolíš, musíš založiť na opise, čo robíš, a nemôožeš opisovať akciu, ktorá nedáva zmysel. Myslíš, že je možné sa *rázne* prešmyknúť cez tmavú miestnosť poza stráže? Nie, pretože to je *ľstivý* prístup. Alebo *rýchlo* odtlačiť balvan, čo stojí v ceste konskému povozu? Nie, pretože to je *rázny* prístup. Okolnosti často vyhradzujú, ktoré prístupy môžeš použiť, a neraz budeš musieť zvoliť spôsob, ktorý nebude práve to najlepšie, čo tvoja postava zvládne.
+
+Hoď kockami, pripočítaj bonus
+-----------------------------
+Chopme sa kociek a hádžme. Zober bonus, ktorý je spojený s prístupom, ktorý si si zvolil a pripočítaj ho k výsledku na kocke. Ak máš špecialitu, ktorá sa dá použiť, pripočítaj ju. To bude tvoj výsledokk, ktorý porovnáš s výsledkom protivníka (zvyčajne ním bude Sprievodca).
+
+Rozhodni sa, či upravíš výsledok
+--------------------------------
+> Vyvolávanie aspektov: str. XXX
+
+Nakoniec sa rozhodni, či chceš upraviť svoj hod vyvolaním aspektov. Veľa sa o tom rozpráva v časti *Aspekty a body osudu* [XXX].
+
+Výzvy, súťaže a konflikty
+=========================
+Rozprávali sme sa o štyroch akciách (získať výhodu, zdolať, zaútočiť a brániť sa) a ich štyroch možných výsledkoch (neúspech, remíza, úspech a úspech vo veľkom štýôe). V akom rámci sa tieto akcie odohrávajú?
+
+Ak chceš urobiť niečo priamočiare -- napríklad preplávať cez rozbúrenú rieku, či hacknúť cudzí telefón -- zväčša poslúži *zdolanie* voči náročnosti, ktorú stanoví Sprievodca. Zistíš výsledok hodu a od toho odvinieš, čo sa spraví ďalej.
+
+Niekedy sú však veci o niečo komplikovanejšie.
+
+Výzvy
+-----
+**Výzva** je séria zdolaní či získavaní výhody, ktorou vyhodnotíš mimoriadne komplikovanú situáciu. Každá akcia zdolania sa zaoberá jednou činnosťou či časťou situácie. Na základe jednotlivých výsledkov určíš, ako sa situácia vyvinula.
+
+Výzvu začneš tým, že určíš, aké jednotlivé činnosti či ciele tvoria situáciu a každý z nich považuj za samostatný hod na zdolanie.
+
+V závislosti od situácie bude musieť niektoré hody spraviť len jedna postava, ale niekedy jej v tom budú môcť pomáhať aj ostatné. Sprievodca nie je povinný ohlásiť všetky fázy výzvy vopred: pokojne ich môže prispôsobovať podľa toho, ako sa výzva vyvíja a tým udržiavať veci v napäté.
+
+<div class="example" markdown="1">
+Postavy sú posádka lode, ktorá uviazla v búrke. Napriek strašnému počasiu rozhodnú doplávať do cieľa, čo Sprievodca vyhlási za výzvu. Jednotlivé fázy pri vyhodnocovaní tejto výzvy môžu obsahovať upokojovanie spanikárených pasažierov, opravu poškodených plachiet či udržanie lode v správnom kurze.
+</div>
+
+Súťaže
+------
+Ak dve či viacero postáv vzájomne súperia pri dosiahnutí rovnakého cieľa, a nesnažia si priamo ublížiť, máte pred sebou **súťaž**. Príkladmi sú automobilová naháňačka, debata či turnaj v lukostreľbe.
+
+Súťaž prebieha v sérii výmen. V každej výmene vykoná každý účasník akciu zdolania, ktorou určí, ako sa mu darilo v danej fáze súťaže. Výsledok svojho hodu porovnaj s výsledkami ostatných.
+
+Ak máš najvyšší hod, vyhral si výmenu a získavaš čiastočné víťazstvo (ktoré môžeš zaznačiť čiarkou alebo krížikom na pomocný papier). Ak uspeješ vo veľkom štýle, zaznač si dve čiastočné víťazstvá.
+
+Ak nastane remíza, nik nezískava čiastočné víťazstvo a nastane nečakaný zvrat. V závislosti od okolností to môže znamenať všeličo -- zmenilo sa prostredie či terén, zmenili sa podmienky súťaže alebo sa nečakane zjaví čosi, čo má dopad na všetkých účastníkov. Sprievodca potom vytvorí nový situačný aspekt, ktorý odrazí túto zmenu a zavedie ho do súťaže.
+
+Prvý účastník, ktorý dosiahne tri víťazstvá, vyhráva súťaž.
+
+> Situačné aspekty: str. XXX [26]
+
+Konflikty
+---------
+**Konflikty** slúžia na vyhodnotenie situácií, keď si postavy snažia vzájomne ublížiť -- či už fyzicky (v dueli mečov ale aj dueli kúziel, či v bitke s laserovými blastrami), alebo duševne (napr. v súboji ostrovtipu, v náročnom vypočúvaní či v útoku na psychiku pomocou kúziel).
+
+### Uvedenie scény
+Ustanovte, čo sa v scéne deje, kde sa nachádzajú postavy a ako vyzerá prostredie. Kto je protivníkom? Sprievodca by mal napísať na papieriky niekoľko situačných aspektov a položiť ich na stôl. Hráči mu v tom môžu pomôcť a tiež navrhnúť situačné aspekty.
+
+Sprievodca tiež ustanoví **zóny**, teda voľne definované územia, ktoré povedia, kde sa ktorá postava nachádza. Zóny možno určiť podľa konkrétnej scény s využitím nasledovných odporúčaní:
+
+Vo všeobecnosti môžeš vzájomne ovplyvňovať len postavy, ktoré sú v rovnakej zóne. Na postavy vo vedľajšej zóne máš dosah len vtedy, ak to vieš zdôvodniť (napr. ak máš strelnú zbraň či kúzlo).
+
+<div markdown="1" class="blacksidebar">
+### Konflikty: 30 sekundové zhrnutie
+1. Uveďte scénu.
+2. Určite poradie postáv.
+3. Začnite prvú výmenu.
+	*	Ak si na rade, vykonaj akciu.
+	*	Ak je na rade iný hráč, bráň sa či reaguj na jeho akcie podľa potreby.
+	*	Po tom, čo sa vystriedali všetci hráči, začnite novú výmenu alebo ukončite konflikt.
+</div> 
+
+Prechod z jednej zóny do vedľajšej môžeš obvykle spraviť bez obmedzení. Ak je v ceste nejaká prekážka alebo ak sa ti niekto snaží zabrániť v presune alebo ak sa chceš presunúť do vzdialenej zóny, musíš na to minúť akciu. Často pomáha, ak jednotlivé zóny stručne zobrazíte na papier.
+
+<div class="example" markdown="1">
+Akýsi darebáci prepadli postavy v ich dome. Obývačka je jedna zóna, kuchyňa ďalšia zóna, veranda na priedomí predstavuje tretiu zónu a záhrada za domom štvrtú. Každý, kto je v rovnakej zóne, sa môže vzájomne mlátiť. Z obývačky môžeš hádzať veci do ľudí v kuchyni bez minutia akcie, a rovnako zadarmo sa môžeš presunúť medzi obývačkou a kuchyňou. Ak sa chceš dostať z obývačky na verandu či do záhrady cez dvor, budeš musišť minúť akciu. 
+</div>
+
+### Určite poradie hráčov
+
+Poradie hráčov v konflikte závisí od použitých prístupov. Ak ide o fyzický konflikt, porovnaj hodnotu *Rýchleho* prístupu s ostatnými účastníkmi. Ten, kto má najrýchlejšie reflexy, ide prvý. V mentálnom konflikte porovnaj *Opatrné* prístupy -- všímanie detailov ťa varuje pred nebezpečím. Ten, kto má najvyššiu hodnotu v prístupe ide prvý, a ostatní pôjdu v klesajúcom poradí. Remízy rozhodnite spôsobom, ktorý dáva zmysel, pričom Sprievodca má posledné slovo.
+
+Pre Sprievodcu je najjednoduchšie, keď vyberie najvýhodnejšiu nehráčsku postavu pre určenie jej poradia a ostatné nehráčske postavy pôjdu naraz s ňou. Ak však má dobrý dôvod na to, aby každá nehráčska postava išla v samostatnom poradí, nech sa páči.
+
+### Výmeny
+
+Ďalej každá postava sa budú striedať v ťahoch. Ak je postava na rade, môže vykonať jednu zo štyroch akcií. Vyhodnoť akciu a urči jej výsledok hodu. Konflikt končí vtedy, ak v ňom ostanú postavy len na jednej strane. 
+
+> Štyri akcie: str. XXX [14]
+
+Au! Poškodenie, zranenie, stres a ujma
+======================================
+Ak si zasiahnutý útokom, jeho **závažnosť** vznikne odčítaním hodu na obranu od hodu na útok, čo meriame pomocou **rozdielu**. Ak tvoj protivník dosiahne +5 na útok a ty máš +3 na obranu, útok spôsobí zásah s dvomi rozdielmi (5 - 3 = 2).
+
+Potom sa môže stať jedna z dvoch vecí:
+
+*	Utrpíš **stres** a/alebo **ujmu**, ale môžeš ďalej bojovať.
+*	Si **vyradený**, čo znamená, že dočasne budeš mimo akcie.  
+
+<div markdown="1" class="blacksidebar">
+### Stres a ujma: 30 sekundové zhrnutie
+
+* Každá postava začína s tromi kolónkami stresu.
+* Závažnosť zásahu (v rozdieloch) = hod na útok - hod na obranu.
+* Ak si zasiahnutý, potrebuješ zobrať do úvahy, ako veľmi ti zásah ublížil. Jedna možnosť, ako absorbovať zranenie, je využiť stres: začiarkni jednu kolónku stresu, ktorou absorbuješ čiastočné či všetko zranenie. Výšku zranenia, ktoré absorbuješ, závisí od kolónky, ktorú začiarkneš. Prvá kolónka absorbuje 1 bod zranenia, druhá 2 body, tretia 3 body zranenia.
+* So zásahom sa môžeš vysporiadať pomocou ujmy: začiarkni jednu či viac kolóniek ujmy a za každú si napíš nový aspekt. Mierna ujma = 2 rozdiely; stredná = 4; závažná: 6 rozdielov.
+* Ak nedokážeš alebo nemôžeš zvládnuť celý zásah, si vyradený. Protivník sa rozhodne, čo sa ti stane.
+* Ak sa vzdáš pred protivníkovym hodom, máš právo opísať, ako opustíš scénu. Za to navyše dostávaš jeden či viac bodov osudu!
+* Stres a mierna ujma miznú na konci scény, za predpokladu, že máš možnosť si odpočinúť. Ostatné druhyujmy pretrvajú dlhšie. 
+</div> 
