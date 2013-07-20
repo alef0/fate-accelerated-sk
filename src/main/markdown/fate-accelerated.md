@@ -435,7 +435,7 @@ Pre Sprievodcu je najjednoduchšie, keď vyberie najvýhodnejšiu nehráčsku po
 
 Au! Poškodenie, zranenie, stres a ujma
 ======================================
-Ak si zasiahnutý útokom, jeho **závažnosť** vznikne odčítaním hodu na obranu od hodu na útok, čo meriame pomocou **rozdielu**. Ak tvoj protivník dosiahne +5 na útok a ty máš +3 na obranu, útok spôsobí zásah s dvomi rozdielmi (5 - 3 = 2).
+Ak si zasiahnutý útokom, jeho **závažnosť** vznikne odčítaním hodu na obranu od hodu na útok, čo meriame pomocou **stupňov**. Ak tvoj protivník dosiahne +5 na útok a ty máš +3 na obranu, útok spôsobí zásah s dvomi stupňami (5 - 3 = 2).
 
 Potom sa môže stať jedna z dvoch vecí:
 
@@ -446,10 +446,58 @@ Potom sa môže stať jedna z dvoch vecí:
 ### Stres a ujma: 30 sekundové zhrnutie
 
 * Každá postava začína s tromi kolónkami stresu.
-* Závažnosť zásahu (v rozdieloch) = hod na útok - hod na obranu.
-* Ak si zasiahnutý, potrebuješ zobrať do úvahy, ako veľmi ti zásah ublížil. Jedna možnosť, ako absorbovať zranenie, je využiť stres: začiarkni jednu kolónku stresu, ktorou absorbuješ čiastočné či všetko zranenie. Výšku zranenia, ktoré absorbuješ, závisí od kolónky, ktorú začiarkneš. Prvá kolónka absorbuje 1 bod zranenia, druhá 2 body, tretia 3 body zranenia.
-* So zásahom sa môžeš vysporiadať pomocou ujmy: začiarkni jednu či viac kolóniek ujmy a za každú si napíš nový aspekt. Mierna ujma = 2 rozdiely; stredná = 4; závažná: 6 rozdielov.
+* Závažnosť zásahu (v stupňoch) = hod na útok - hod na obranu.
+* Ak si zasiahnutý, potrebuješ zobrať do úvahy, ako veľmi ti zásah ublížil. Jedna možnosť, ako absorbovať zranenie, je využiť stres: začiarkni jednu kolónku stresu, ktorou absorbuješ čiastočné či všetko zranenie. Výšku zranenia, ktoré pohltíš, závisí od kolónky, ktorú začiarkneš. Prvá kolónka pohltí 1 stupeň, druhá 2 stupne, tretia 3 stupne zásahu.
+* So zásahom sa môžeš vysporiadať pomocou ujmy: začiarkni jednu či viac kolóniek ujmy a za každú si napíš nový aspekt. Mierna ujma = 2 stupne; stredná = 4; závažná = 6 stupňov.
 * Ak nedokážeš alebo nemôžeš zvládnuť celý zásah, si vyradený. Protivník sa rozhodne, čo sa ti stane.
 * Ak sa vzdáš pred protivníkovym hodom, máš právo opísať, ako opustíš scénu. Za to navyše dostávaš jeden či viac bodov osudu!
-* Stres a mierna ujma miznú na konci scény, za predpokladu, že máš možnosť si odpočinúť. Ostatné druhyujmy pretrvajú dlhšie. 
-</div> 
+* Stres a mierna ujma miznú na konci scény, za predpokladu, že máš možnosť si odpočinúť. Ostatné druhy ujmy pretrvajú dlhšie. 
+</div>
+
+Čo je stres?
+------------
+Ak utrpíš zásah a nechceš byť vyradený, máš možnosť zvyšiť si stres.
+
+**Stres** predstavuje únavu, rozčúlenie, povrchové rany či iné rozpoloženie postavy, ktoré vie rýchlo vymiznúť.
+
+Tvoja postava má **meradlo stresu** pozostávajúce z troch kolóniek. Ak dostaneš zásah, a začiarkneš kolónku stresu, pohltíš toľko stupňov, koľko ukazuje číslo nad kolónkou. Kolónka 1 pohltí jeden stupeň, kolónka 2 dva stupne a tretia kolónka tri stupne zranenia.
+
+Pri jednom zásahu môžeš začiarknuť len jednu kolónku. Na druhej strane však *môžeš* začiarknuť kolónku stresu a zároveň prijať jednu alebo viacero prejavov ujmy. Rozhodne však nemôžeš začiarknuť kolónku stresu, ktorá už je raz použitá!
+
+Čo sú následky?
+---------------
+**Následky** sú nové aspekty, ktoré odrážajú závažné zranenia či ujmu tvojej postavy. Na liste postavy máš tri kolónky, do ktorých si môžeš uviesť jednotlivé následky. Každý z nich má popisok: 2 (mierne závažné), 4 (stredne závažné) alebo 6 (závažné). Číslo predstavuje počet stupňov zásahu, ktoré následok pohltil. Pri vysporiadavaní sa so zásahom môžeš vyplniť toľko kolóniek, koľko chceš, ale len vtedy, ak sú prázdny. Ak si už vyplnil kolónku pre stredne závažný následok, nemôžeš ho využiť dovtedy, kým sa nepostaráš, aby predošlý závažný následok zmizol.
+
+Významnou nevýhodou následkov je, že každý zapísaný následok predstavuje nový aspekt, ktorý môžu protivníci vyvolať a použiť ho voči tebe. Čím viac následkov máš, tým zraniteľnejší si. Navyše, podobne ako v prípade situačných aspektov platí, že postava, ktorá ho vytvorila (v tomto prípade postava, ktorá ťa zasiahla) má právo jedného bezplatného vyvolania, a vie umožniť svojim spojencom ho tiež využiť!
+
+<div markdown="1" class="example">
+Povedzme, že si schytal naozaj silnú ranu: zásah štvrtého stupňa. Ak si na meradle stresu začiarkneš kolónku stresu č. 2, ostávajú ti dva stupne, s ktorými sa musíš vysporiadať. Ak nemáš ako, budeš vyradený, čiže je lepšie uvažovať nad následkami. Môžeš si napríklad vybrať nový aspekt, ktorý zapíšeš do druhej kolónky následkov: napr. ***Vytknutý členok***. Tým si vybavil ostávajúce dva stupne a môžeš bojovať ďalej! 
+</div>  
+
+Ak nie si schopný pohltiť všetky stupne zásahu -- či už využitím kolóniek stresu alebo prijatím následkov -- si vyradený.
+
+Čo sa stane, keď som vyradený?
+------------------------------
+Ak je tvoja postava vyradená, v aktuálnej scéne už nemôžeš konať. Ten, kto ťa vyradil, opíše, čo sa ti stalo tak, aby to zodpovedalo spôsobu, ktorým ťa vyradil -- možno si v hanbe vybehol z miestnosti, možno si upadol do bezvedomia.
+
+Vzdávanie sa
+------------
+Ak okolnosti vyzerajú biedne, môžeš sa vzdať (alebo uznať porážku v boji) -- ale musíš to ohlásiť ešte *predtým*, než protivník hodí kockami.
+
+Na rozdiel od vyradenia máš právo opísať, čo sa ti stalo. Tvoj oponent síce získa od teba významný ústupok, či výhodu -- porozprávajte sa, čo dáva v tvojej situácii najväčší zmysel -- ale je to stále lepšie než vyradenie bez práva ovplyvniť svoj osud.
+
+Ak sa vzdáš, získaš okrem toho bod osudu a za každý následok, ktorý si utŕžil v tomto konflikte, ti patrí ďalší bod osudu. Dáva ti to príležitosť povedať, že "síce si teraz vyhral, ale nabudúce ťa dostanem!", v čom ti pomôže množstvo bodov osudu, ktoré takto získaš.
+
+Zotavovanie sa zo stresu a následkov
+------------------------------------
+Na konci každej scény si zruš značky vo všetkých kolónkach stresu. Zotavenie z následkov je však o niečo zložitejšie: budeš musieť vysvetliť, ako si sa z nich vystrábil -- či už návštevou urgentného príjmu, prechádzky, počas ktorej sa upokojíš alebo hocičo, čo dáva zmysel pre daný následok. Popri tom budeš musieť počkať primerané množstvo času.
+
+* **Mierne závažné následky:** stratia sa po skončení scény, za predpokladu, že máš možnosť oddychovať.
+* **Stredne závažné následky:** stratia sa po skončení nasledovného herného sedenia, za predpokladu, že to dáva zmysel v rámci príbehu.
+* **Závažné následky:** stratia sa po skončení *scenára*, za predpokladu, že to dáva zmysel pre príbeh.
+
+<div markdown="1" class="blacksidebar">
+# Zmena názvu stredne závažných a závažných následkov
+
+Stredne závažné a závažné dôsledky budeš musieť trpieť dlhší čas. Niekedy je preto vhodné zmeniť názov aspektu tak, aby lepšie zodpovedal odohrávajúcemu sa príbehu. Napríklad ***Bolestivo zlomená noha*** sa môže po pomoci lekára zmeniť na ***Krívanie o barliach***, čo môže dávať väčší zmysel. 
+
