@@ -401,6 +401,8 @@ Konflikty
 ### Uvedenie scény
 Ustanovte, čo sa v scéne deje, kde sa nachádzajú postavy a ako vyzerá prostredie. Kto je protivníkom? Sprievodca by mal napísať na papieriky niekoľko situačných aspektov a položiť ich na stôl. Hráči mu v tom môžu pomôcť a tiež navrhnúť situačné aspekty.
 
+> Situačné aspekty: str. XXX [26]
+
 Sprievodca tiež ustanoví **zóny**, teda voľne definované územia, ktoré povedia, kde sa ktorá postava nachádza. Zóny možno určiť podľa konkrétnej scény s využitím nasledovných odporúčaní:
 
 Vo všeobecnosti môžeš vzájomne ovplyvňovať len postavy, ktoré sú v rovnakej zóne. Na postavy vo vedľajšej zóne máš dosah len vtedy, ak to vieš zdôvodniť (napr. ak máš strelnú zbraň či kúzlo).
@@ -496,8 +498,10 @@ Na konci každej scény si zruš značky vo všetkých kolónkach stresu. Zotave
 * **Stredne závažné následky:** stratia sa po skončení nasledovného herného sedenia, za predpokladu, že to dáva zmysel v rámci príbehu.
 * **Závažné následky:** stratia sa po skončení *scenára*, za predpokladu, že to dáva zmysel pre príbeh.
 
+> Scenáre: str. XXX [36]
+
 <div markdown="1" class="blacksidebar">
 # Zmena názvu stredne závažných a závažných následkov
 
 Stredne závažné a závažné dôsledky budeš musieť trpieť dlhší čas. Niekedy je preto vhodné zmeniť názov aspektu tak, aby lepšie zodpovedal odohrávajúcemu sa príbehu. Napríklad ***Bolestivo zlomená noha*** sa môže po pomoci lekára zmeniť na ***Krívanie o barliach***, čo môže dávať väčší zmysel. 
-
+</div>
