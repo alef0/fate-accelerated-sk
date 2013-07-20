@@ -289,7 +289,7 @@ Opísal si, čo sa tvoja postava pokúša spraviť a dohodol si sa na tom, že j
 *	**Úspech vo veľkom štýle:** Útok zasiahne cieľ a spôsobí jeho poškodenie. Poškodenie môžeš znížiť o jedna a vytvoriť tak **posilnenie**.
 
 ## Obrana
-*	**Neúspech:** Utrpíš ujmu podľa protivníkovho úspechu.
+*	**Neúspech:** Utrpíš následky podľa protivníkovho úspechu.
 *	**Remíza:** Pozri sa na akciu protivníka, aby si zistil, čo sa stalo.
 *	**Úspech:** Protivník nedosiahne, čo chcel.
 *	**Úspech vo veľkom štýle:** Protivník nedosiahne, čo chcel, a navyše získaš **posilnenie**.
@@ -310,13 +310,13 @@ Akciu *Zdolanie* použi, ak sa potrebuješ dostať za čosi, čo ti bráni v dos
 
 Útok
 ----
-Akciu **Útok** použi vtedy, ak sa pokúsiš niekomu ublížiť, či už telesne alebo duševne. Seknutie mečom, výstrel z blastrovej pušky alebo urážlivá nadávka, ktorou chceš ublížiť protivníkovi. (Bližšie o tom rozprávame v kapitole *Och! Poškodenie, stres a ujma*, ale najdôležitejšia vec je: Ak je niekto príliš zranený, bude vyradený zo scény.) Cieľ tvojho útoku má možnosť použiť obrannú akciu, ktorou ťa zastaví.
+Akciu **Útok** použi vtedy, ak sa pokúsiš niekomu ublížiť, či už telesne alebo duševne. Seknutie mečom, výstrel z blastrovej pušky alebo urážlivá nadávka, ktorou chceš ublížiť protivníkovi. (Bližšie o tom rozprávame v kapitole *Och! Poškodenie, stres a následky* [XXX], ale najdôležitejšia vec je: Ak je niekto príliš zranený, bude vyradený zo scény.) Cieľ tvojho útoku má možnosť použiť obrannú akciu, ktorou ťa zastaví.
 
->	Poškodenie, stres a ujma: str. 22
+>	Poškodenie, stres a následky: str. XXX [22]
 
 * **Ak zlyháš:** Tvoj útok sa nepodaril. Protivník vykryl tvoj sek, tvoj výstrel minul, tvoja nadávka vyvolala búrlivý smiech.
 * **Ak remizuješ:** Tvoj útok sa nepodaril natoľko, aby spôsobil ujmu, dostávaš však posilnenie.
-* **Ak uspeješ:** Tvoj útok trafil protivníka a spôsobil mu ujmu. Pozri časť *Och! Poškodenie, stres a ujma*.
+* **Ak uspeješ:** Tvoj útok trafil protivníka a spôsobil mu ujmu. Pozri časť *Och! Poškodenie, stres a následky* [XXX].
 * **Ak uspeješ vo veľkom štýle:** Zasiahneš a spôsobíš poškodenie či zranenie a navyše máš možnosť znížiť toto poškodenie o jeden bod a získať posilnenie.
 
 >	Spôsobovanie poškodenia a zranenia: str. 22
@@ -433,25 +433,25 @@ Pre Sprievodcu je najjednoduchšie, keď vyberie najvýhodnejšiu nehráčsku po
 
 > Štyri akcie: str. XXX [14]
 
-Au! Poškodenie, zranenie, stres a ujma
-======================================
+Au! Poškodenie, zranenie, stres a následky
+==========================================
 Ak si zasiahnutý útokom, jeho **závažnosť** vznikne odčítaním hodu na obranu od hodu na útok, čo meriame pomocou **stupňov**. Ak tvoj protivník dosiahne +5 na útok a ty máš +3 na obranu, útok spôsobí zásah s dvomi stupňami (5 - 3 = 2).
 
 Potom sa môže stať jedna z dvoch vecí:
 
-*	Utrpíš **stres** a/alebo **ujmu**, ale môžeš ďalej bojovať.
+*	Utrpíš **stres** a/alebo **následky**, ale môžeš ďalej bojovať.
 *	Si **vyradený**, čo znamená, že dočasne budeš mimo akcie.  
 
 <div markdown="1" class="blacksidebar">
-### Stres a ujma: 30 sekundové zhrnutie
+### Stres a následky: 30 sekundové zhrnutie
 
 * Každá postava začína s tromi kolónkami stresu.
 * Závažnosť zásahu (v stupňoch) = hod na útok - hod na obranu.
 * Ak si zasiahnutý, potrebuješ zobrať do úvahy, ako veľmi ti zásah ublížil. Jedna možnosť, ako absorbovať zranenie, je využiť stres: začiarkni jednu kolónku stresu, ktorou absorbuješ čiastočné či všetko zranenie. Výšku zranenia, ktoré pohltíš, závisí od kolónky, ktorú začiarkneš. Prvá kolónka pohltí 1 stupeň, druhá 2 stupne, tretia 3 stupne zásahu.
-* So zásahom sa môžeš vysporiadať pomocou ujmy: začiarkni jednu či viac kolóniek ujmy a za každú si napíš nový aspekt. Mierna ujma = 2 stupne; stredná = 4; závažná = 6 stupňov.
+* So zásahom sa môžeš vysporiadať pomocou následkov: začiarkni jednu či viac kolóniek následkov a za každú si napíš nový aspekt. Mierne závažný následok = 2 stupne; stredne závažný = 4; závažný = 6 stupňov.
 * Ak nedokážeš alebo nemôžeš zvládnuť celý zásah, si vyradený. Protivník sa rozhodne, čo sa ti stane.
 * Ak sa vzdáš pred protivníkovym hodom, máš právo opísať, ako opustíš scénu. Za to navyše dostávaš jeden či viac bodov osudu!
-* Stres a mierna ujma miznú na konci scény, za predpokladu, že máš možnosť si odpočinúť. Ostatné druhy ujmy pretrvajú dlhšie. 
+* Stres a mierne závažné následky miznú na konci scény, za predpokladu, že máš možnosť si odpočinúť. Ostatné druhy následkov pretrvajú dlhšie. 
 </div>
 
 Čo je stres?
@@ -462,7 +462,7 @@ Ak utrpíš zásah a nechceš byť vyradený, máš možnosť zvyšiť si stres.
 
 Tvoja postava má **meradlo stresu** pozostávajúce z troch kolóniek. Ak dostaneš zásah, a začiarkneš kolónku stresu, pohltíš toľko stupňov, koľko ukazuje číslo nad kolónkou. Kolónka 1 pohltí jeden stupeň, kolónka 2 dva stupne a tretia kolónka tri stupne zranenia.
 
-Pri jednom zásahu môžeš začiarknuť len jednu kolónku. Na druhej strane však *môžeš* začiarknuť kolónku stresu a zároveň prijať jednu alebo viacero prejavov ujmy. Rozhodne však nemôžeš začiarknuť kolónku stresu, ktorá už je raz použitá!
+Pri jednom zásahu môžeš začiarknuť len jednu kolónku. Na druhej strane však *môžeš* začiarknuť kolónku stresu a zároveň prijať jednu alebo viacero prejavov následkov. Rozhodne však nemôžeš začiarknuť kolónku stresu, ktorá už je raz použitá!
 
 Čo sú následky?
 ---------------
