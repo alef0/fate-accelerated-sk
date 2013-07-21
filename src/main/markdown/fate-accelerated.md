@@ -727,3 +727,67 @@ Dosiahnutie veľkého míľnika dáva výhody významného a *zároveň* malého
 Ak si zvýšiš bonus niektorého prístupu, nezabudni na jediné pravidlo: Bonus prístupu nikdy nemôže byť lepší než Vynikajúci (+5).
 </div>
 
+Ako byť Sprievodcom
+===================
+Sprievodca má mnoho zodpovedností, napríklad predostieranie konfliktov pred hráčov, ovládanie nehráčskych postáv a napomáhanie ostatným pri používaní pravidiel na situácie v hre.
+
+Porozprávajme sa o úlohách Sprievodcu.
+
+Pomáhajte budovať kampane
+-------------------------
+**Kampaň** je séria hier s rovnakými postavami, kde sa príbeh buduje na udalostiach odohraných v predošlých herných sedeniach. Všetci hráči by mali spolupracovať so Sprievodcom pri plánovaní priebehu kampani. Zvyčajne sa to udeje počas spoločnej debaty o tom, akých hrdinov chcete hrať, v akom svete budú hrať a akých záporákov chcete vidieť. Porozprávajte sa tiež o  miere vážnosti a vtipu v hre a ako dlho má hra trvať.
+
+<div markdown="1" class="example">
+* Mačací piráti nebies v lietajúcich lodiach, ktorí sú neustále na úteku pred Kráľovským námorníctvom, čo ich chce dolapiť.
+* Puštni dedinčania ovládajúci mágiu, ktorí sa musia postaviť invázii zlého Impéria ocele.
+* Študenti internátnej školy pre nadaných kúzelníkov riešia záhady a odkrývajú tajomstvá jej prastarej budovy. 
+</div>
+
+<div markdown="1" class="blacksidebar">
+# Ako sa učiť byť Sprievodcom
+Byť Sprievodcom a viesť hry sa môže zdať spočiatku otravné a náročné. Je to úloha, ktorá vyžaduje čas, kým sa dokonale zvládne, ale neboj sa -- čím viac to budeš robiť, tým lepšie ti to pôjde. Ak sa chceš dozvedieť viac o umení vedenia hry vo Fate, v príručke *Fate Core* nájdeš niekoľko kapitol, ktoré by si si mal prečítať: *Vedenie hry*, *Scény, sedenia a scenáre* a *Dlhé hry* sú mimoriadne užitočné. Príručka *Fate Core* je dostupná v angličtine zadarmo na *www.evilhat.com*.
+</div>
+
+Budujte scenáre a veďte herné sedenia
+-------------------------------------
+**Scenár** zodpovedá kratšej dejovej línii, akú môžete vídavať v jednej či dvoch epizódach televízneho seriálu, po ktorej sa uzavrie i v prípade, že je súčasťou niečoho väčšieho. Scenár sa často začne a dokončí v priebehu jednej až troch herných sedení (za predpokladu, že hrávate po tri-štyri hodiny). Čo presne sa za ním skrýva a ako ho vybudovať?
+
+### Scenáre
+Scenár potrebuje dva prvky: záporáka s plánom a nejaký dôvod, prečo ho hráčske postavy nemôžu ignorovať.
+
+**Záporák s plánom:** Na to ste už určite prišli sami. Je ním niekto z hlavných protivníkov postáv či ktorýsi z jeho spojencov.
+
+**Niečo, čo postavy nemôžu ignorovať:** Teraz musíte pred hráčske postavy predložiť niečo, na čom im záleží. Postarajte sa, aby zámery záporáka otriasli hráčskymi postavami tak, že budú sa musieť s nimi vysporiadať. V opačnom prípade sa stane čosi veľmi zlé buď nim, ich známim, alebo veciam, ktoré si nadovšetko cenia.
+
+### Vedenie herných sedení
+Teraz, keď máte záporáka, na ktorého budú musieť hráčske postavy dávať pozor, je čas to celé naštartovať. Najlepší spôsob -- a to sa týka najmä prvého sedenia v čerstvej dejovej línii -- je umiestniť ich priamo do stredu akcie. Hneď, keď postavy zistia, o čo ide, a prečo sa do toho musia zapojiť, stiahnite sa a nechajte ich, nech sa o všetko postarajú.
+
+Okrem toho má Sprievodca v zodpovednosti viacero úloh, ktorými zabezpečí plynulý riebeh herného sedenia:
+
+*	**Viesť scény:** Herné sedenie pozostáva z jednotlivých scén. Ako Sprievodca rozhodneš, kde sa scéna začne odohrávať, kto je v nej prítomný, a o čo v nej pôjde. Rozhoduješ tiež, či už nastal moment, keď sa všetky zaujímavé veci už odohrali a je najlepší čas na ukončenie scény.
+*	**Rozhodovať pravidlové spory:** Ak nastane otázka o používaní pravidiel, máš ako Sprievodca posledné slovo.
+*	**Ustanovovať náročnosť:** Rozhoduješ, aká má byť náročnosť úloh.
+
+> Náročnosť: str. XXX [37]
+
+*	**Odohrávať nehráčske postavy:** Každý hráč má pod kontrolou svoju postavy; ty ovládaš všetky ostatné postavy, vrátane záporákov.
+*	**Posúvať veci:** Ak hráči netušia ako ďalej, máš za úlohu ich poposunúť. Nedopusť, aby sa veci začali tiahnuť kvôli nerozhodnosti hráčov, či preto, že nemajú dosť informácií -- neboj sa zatriasť hrou, aby sa všetko dalo opäť do pohybu.
+* **Daj každému príležitosť ukázať sa v úžasnom svetle:** Tvojim cieľom nie je poraziť hráčov, ale ponúknuť im výzvy. Postaraj sa, aby každá hráčska postava mala príležitosť na chvíľu zažiariť, či už ide o veľkého zlého bojovníka alebo drobného zákerného zlodejíčka.       
+
+Stanovovanie náročností
+-----------------------
+Ak hráčskym postavám čelí iná postava, jej hody predstavujú opozíciu v konfliktoch, súťažiach či výzvach. Ak však nejestvuje aktívny protivník, musíš ako Sprievodca rozhodnúť, aká náročná je úloha.
+
+**Nízka náročnosť** je najlepšia, ak chceš dať hráčskym postavám príležitosť predviesť sa a zažiariť. **Náročnosti blízke hodnotám ich prístupov** sa hodia vtedy, keď chceš ponúknuť napätie bez toho, aby si ich  rozdrvil. **Vysoké náročnosti** sú výborné, keď chceš ukázať mimoriadne nezvyčajné či kruté okolnosti, v ktorých musia postavy vydať zo seba maximum, aby z nich vyviazli.
+
+Odporúčania:
+
+*	Ak úloha nie je príliš náročná, daj jej Slabú náročnosť (+0), alebo rovno povedz hráčovi, že uspel.
+*	Ak máš aspoň jeden dôvod na to, prečo je úloha ťažká, zvoľ Obstojnú náročnost (+2).
+*	Ak je úloha mimoriadne náročná, vyber si náročnosť na úrovni Výborný (+4).  
+*	Ak je úloha takmer neuskutočniteľná, nastav takú vysokú náročnosť, akú uznáš sa vhodné. Postavy budú musieť zaplatiť niekoľko bodov osudu a využiť množstvo výpomoci, ale tak to má byť.
+
+<div markdown="1" class="blacksidebar">
+# Voliteľné pravidlo: Náročnosti podľa prístupov
+Niekedy sa oplatí zvoliť opatrný prístup; inokedy zase veci príliš spomalí. Sprievodca sa môže rozhodnúť upraviť číslo náročnosti o jednu či dve úrovne podľa toho, či zvolíš vhodný alebo problémový prístup. Môže to 
+</div>
