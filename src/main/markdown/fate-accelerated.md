@@ -598,6 +598,45 @@ Ak máš aspekt, alebo si v okolí aspektu, z ktorého vyplýva, že tvoja situ�
 
 Existujú dva druhy vynucovania:
 
-**Vynútenie rozhodnutia:** Tento druh vynútenia naznačuje, akú voľbu má urobiť tvoja postava. Ak je napríklad ***Princeznou Alarie***, znamená to, že by si mal ostať brániť Alarijský palác a nie utekať do bezpečia. 
+**Vynútenie rozhodnutia:** Tento druh vynútenia naznačuje, akú voľbu má urobiť tvoja postava. Ak je napríklad ***Princeznou Alarie***, znamená to, že by si mal ostať brániť Alarijský palác a nie utekať do bezpečia. Ak máš napríklad **Drzosť známu široko-ďaleko**, možno si nevieš pomôcť a musíš odvrávať disciplinárnej komisii, ak ťa začne vyšetrovať.
 
+**Vynútenie udalosti:** Vynútenie môže zodpovedať udalosti či zvratu, ktorá ti skomplikuje život. Ak máš napríklad ***Čudné šťastie***, kúzlo, ktoré si pripravuješ na hodine sa samozrejme nepodarí a vlasy namosúreného Učiteľa odvarov zoranžovejú. Ak ***Dlhuješ Donovi Valdeonovi službu***, potom sa Don Valdeon zjaví vo chvíli, keď ti to najmenej vyhovuje, a bude žiadať, aby si sa mu odplatil.
+
+V každom prípade platí, že ak ti niekto vynúti aspekt, musí ti ponúknuť bod osudu a navrhnúť, ako sa to prejaví: napríklad, že urobíš isté rozhodnutie alebo že nastane istá udalosť. Môžete to vzájomne predebatovať, a vykonať drobné úpravy či zmeny návrhu vynútenia. Po chvíli sa však budeš musieť rozhodnúť, či vynútenie prijať alebo nie. Ak súhlasíš, zober si bod osudu a tvoja postava urobí navrhované rozhodnutie, resp. sa stane navrhovaná vec. V opačnom prípade musíš *zaplatiť* bod osudu zo svojej zásoby. Ak nemáš už žiadne body osudu, nemôžeš vynútenie odmietnuť!
+
+<div markdown="1" class="blacksidebar">
+# Koľko bodov osudu dostáva Sprievodca?
+
+Ako Sprievodca nemusíš evidovať body osudu pre každú nehráčsku postavu zvlášť. To však nezamená, že ich máš neobmedzene veľa. Každú scénu začni s toľkými bodmi osudu, koľko je v nej hráčskych postáv. Body osudu z tohto banku využi na vyvolávanie aspektov (a následkov) voči hráčskym postavám. Ak je bank prázdny, nemôžeš voči nim vyvolávať žiadne aspekty.
+
+Ako zvýšiš veľkosť banku? Ak hráč vynúti niektorý aspekt nehráčskej postavy, pridaj do banku jeden bod osudu. Ak sa týmto vynútením skončí scéna alebo ak sa nehráčska postava vzdá, pridaj tieto body osudu do banku, s ktorým začneš ďalšiu scénu.
+
+Body osudu, ktorými odmieňaš vynútenia, však neber z tohto banku! Na odmieňanie vynútení máš totiž neobmedzený počet bodov osudu. 
+</div>
+
+### Ustanovenie faktov
+Poslednou vecou, ktorú môžeš dosiahnuť pomocou aspektov, je **ustanovenie faktov** v hre. Na to nemusíš míňať žiadne body osudu, hádzať kockami, ani robiť nič zvláštne. Len tým, že máš aspekt ***Pilot Ryšavej kačky***, ustanovíš, že tvoja postava je pilot a že lietaš na lietadle s názvom *Ryšavá kačka*. Ak máš aspekt ***Úhlavný nepriateľ: Červení nindžovia***, znamená to, že v hernom prostredí je spoločenstvo Červených nindžov, ktorí ťa z nejakého dôvodu prenasledujú. Ak si vezmeš aspekt ***Čarodej Tajomného kruhu***, nielenže ustanovíš, že v hre jestvuje skupina čarodejov nazývaný Tajomný kruh, ale že v hernom prostredí *existuje mágia a ty ju dokážeš využívať*.
+
+Ak ustanovuješ fakty o hernom prostredí, dbaj na to, aby sa to dialo v spolupráci s ostatnými hráčmi. Ak chce väčšina účastníkov hrať v prostredí bez mágie, nemal by si ju samozvane zaviesť za pomoci aspektu. Postaraj sa o to, aby fakty, ktoré ustanovuješ cez aspekty urobili z hry zábavu pre všetkých okolo stola.
+
+Vytváranie dobrých aspektov
+----------------------------
+Ak máš vymyslieť dobrý aspekt (teraz máme na mysli hlavne aspekty postáv a situačné aspekty), zober do úvahy dve veci:
+
+*	Ako ti aspekt pomôže: ak ho vyvoláš.
+*	Ako ti aspekt môže ublížiť: ak ti niekto vynúti.
+
+Napríklad:
+
+<div markdown="1" class="example">
+***Dostanem ťa, von Stendahl!***
+*	Vyvolaj ho, ak konáš voči von Stendahlovi a chceš si zvýšiť šance.
+*	Získaj bod osudu, ak sa ti vôbec nepáčia tie bláznovstvá, ktoré musíš spraviť, keď sa ho pokúšaš dolapiť.
+
+***Oči na stopkách***
+*	Vyvolaj to, ak chceš byť mimoriadne pozorný a opatrný.
+*	Získať bod osudu, ak tvoja prehnaná opatrnosť spôsobí, že spanikáriš aj pri hrozbách, ktoré tam v skutočnosti nie sú.
+</div>
+
+Samozrejme, tvoj aspekt osobného problému je stavaný na vyvolávanie ťažkosti, čím ti síce komplikuje život, ale zároveň ti ho robí zaujímavejším a predstavuje zdroj bodov osudu. V tomto prípade je v poriadku, ak je osobný problém plochým aspektom, ale všetky ostatné aspekty postavy a situácií by mali byť dvojsečné.
 
