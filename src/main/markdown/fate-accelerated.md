@@ -640,3 +640,90 @@ Napríklad:
 
 Samozrejme, tvoj aspekt osobného problému je stavaný na vyvolávanie ťažkosti, čím ti síce komplikuje život, ale zároveň ti ho robí zaujímavejším a predstavuje zdroj bodov osudu. V tomto prípade je v poriadku, ak je osobný problém plochým aspektom, ale všetky ostatné aspekty postavy a situácií by mali byť dvojsečné.
 
+Špeciality
+==========
+**Špeciality** sú techniky, finty, triky, či manévre tvojej postavy, ktoré menia spôsob fungovania jej prístupov. Obvykle to znamená, že v istej situácii získavaš bonus, inokedy ti to môže poskytnúť mimoriadnu schopnosť či vlastnosť. Špecialita môže predstavovať zvláštne, mimoriadne kvalitné, či exotické vybavenie, ku ktorému má postava prístup, čím má v mnohých situáciách predstih pred ostatnými.
+
+> Prístupy: str. XXX [18]
+
+Neexistuje žiadny vyčerpávajúci zoznam špecialít, z ktorého si vyberiete. Podobne ako v prípade aspektov si každý musí navrhnúť vlastné špeciality. Sú dva základné vzory, ktoré ti pomôžu pri tvorbe a poslúžia ako základ, z ktorého môžeš vychádzať.
+
+Jeden druh špecialít ti poskytne bonus +2, ak použiješ v určenej situácii predpísaný prístup. Použi tento vzor:  
+
+Pretože [**opíš vďaka čomu si výnimočný, aké vybavenie ti poskytuje niečo zvláštne alebo prečo si taký úžasný**], získavam bonus +2, keď [<strong>vyber jedno: opatrne / chytro / ohurujúco / rázne / rýchlo / ľstivo</strong>] [<strong>útočím / bránim sa / získavam výhodu/ zdolávam</strong>], v prípade, že [**opíš okolnosti**].
+
+Príklady:
+
+<div markdown="1" class="example">
+*	Pretože ***mám Podrezaný jazyk***, získavam bonus +2, ak ***ľstivo získavam výhody***, v prípade, že ***sa s niekým zhováram***. 
+*	Pretože ***som Milovník hlavolamov***, získavam bonus +2, ak ***chytro zdolávam prekážky***, v prípade, že ***mi niekto dá hlavolam, hádanku či podobný rébus***. 
+*	Pretože ***som Duelant svetovej triedy***, získavam bonus +2, ak ***ohurujúco útočím***, v prípade, že ***šermujem jeden na jedného***. 
+*	Pretože ***mám Veľký štít***, získavam bonus +2, ak ***sa rázne bránim*** v prípade, že ***ho používam v súboji na blízko***. 
+</div>
+
+Ak sú okolnosti použitia mimoriadne obmedzujúce, môžeš použiť špecialitu nielen na získanie výhody, ale aj na zdolávanie.
+
+Druhý typ špeciality ti umožňuje ustanoviť niečo ako skutočnosť, urobiť niečo cool, či istým spôsobom ignorovať pravidlá. Použi tento vzor:
+
+Pretože [**opíš vďaka čomu si výnimočný, aké vybavenie ti poskytuje niečo zvláštne alebo prečo si taký úžasný**], raz za herné sedenie [**opíš niečo výnimočné, čo dokážeš**].
+
+Napríklad:
+
+<div markdown="1" class="example">
+*	Pretože ***Mám známych všade***, raz za herné sedenie **viem nájsť nápomocného spojenca na tom správnom mieste**.
+*	Pretože ***Tasím bleskovo***, raz za herné sedenie **môžem ísť vo fyzickom konflikte ako prvý**.
+*	Pretože ***Mám nohy geparda***, raz za herné sedenie **sa môžem zjaviť kdekoľvek chcem, za predpokladu, že tam viem dobehnúť a to bez ohľadu na to, kde som začal**.
+</div>
+
+Tieto ukážky by ťa mali naviesť na tvorbu vlastných špecialít. Ak ťa však obmedzujú, nemusíš ich nasledovať doslovne. Ak sa chceš dočítať viac o tvorbe špecialít, pozri časť *Zručnosti a špeciality* v príručke *Fate Core*.
+
+Ako byť čoraz lepší: zlepšovanie postáv
+=======================================
+Ľudia sa menia. Tvoje zručnosti sa s praxou vybrusujú do dokonalosti. Životné skúsenosti, ktoré naberáš, ovplyvňujú tvoju osobnosť. Vo *Fate z rýchlika* sa to odráža v **zlepšovaní postáv**, ktoré ti umožní meniť aspekty, dodávať či upravovať špeciality a zvyšovať bonusy prístupov. To všetko môžeš robiť, ak tvoja postava dosiahne míľnik.
+
+Míľniky
+-------
+Televízne príbehy, komiksy, filmy, ba neraz aj videohry sa zvyčajne odohrávajú od epizódy k epizóde, od sezóny k sezóne. Frodovi trvalo tri knihy, kým doniesol Prsteň k ohnivej hore. Aangovi trvalo tri sezóny, kým porazil Pána ohňa. Asi vieš, čo chcem povedať. Pomocou *FAE* môžete samozrejme odohrať takéto príbehy: vaše postavy prejdú mnohými hernými sedeniami (často sa to nazýva **kampaň**), z ktorých sa postupne vybuduje veľký príbeh. Ale v rámci týchto dlhých príbehov existujú kratšie dejové linky, podobne to možno vidieť v jednotlivých epizódach seriálov, čo v zošitoch komiksov, kde sa odrozprávajú a uzavrú kratšie príbehy. I toto je možné vo **FAE**, a to aj v dlhších kampaniach.
+
+Vo **FAE** nazývame tieto závery príbehov **míľnikmi** -- či  už ide o menšie v prípade kratších dejových liniek alebo naozaj veľké finále po mnohých herných sedeniach. **FAE** rozoznáva tri typy míľnikov a každý z nich umožňuje zmeniť tvoju postavu charakteristickým spôsobom.
+
+Malé míľniky
+------------
+Malý míľnik zvyčajne nastáva na konci herného sedenia, či v prípade, že sa uzavrela jedna časť príbehu. Viac než situácia, keď sa tvoja postava stane silnejšou, ide o chvíľu, keď sa tvoja postava zmení, či prispôsobí udalostiam, ktoré prežila v príbehu. Niekedy nemá zmysel využiť výhody malých míľnikov, ale ak chceš, máš na to príležitosť.
+
+Ak nastane malý míľnik, máš príležitosť zvoliť si jednu (a len jednu) z nasledovných možností:
+
+*	Vzájomne zameniť hodnotenia dvoch prístupov.
+*	Premenovať ľubovoľný aspekt s výnimkou konceptu.
+*	Vymeniť jednu špecialitu za nejakú inú.
+*	Vybrať si novú špecialitu (a prispôsobiť si obnovu, ak už máš tri špeciality).
+
+Ak máš zároveň stredne závažný následok, zisti, či ním trpíš už dve sedenia. Ak áno, môžeš ho nechať zmiznúť.
+
+Významné míľniky
+----------------
+Významný míľnik zvyčajne nastáva na konci scenára či po uzavretí väčšej dejovej línie (ak máš pochybnosti, po skončení dvoch či troch herných sedení). Na rozdiel od malých míľnikoch, ktoré sú hlavne o zmene, významné míľniky sú o učení nových vecí -- o vysporiadaní sa s problémami a výzvami, vďaka ktorým sa tvoja postava stala skúsenejšia a zručnejšia v tom, čo robí.
+
+> Scenáre: str. XXX [36]
+
+Oproti výhodám malého míľnika získavaš obe z nasledovných možností:
+
+*	Ak máš závažný následok, ktorý ťa trápil aspoň dve sedenia, môžeš ho odstrániť.
+*	Zvýš si bonus v jednom prístupe.
+
+Veľké míľniky
+-------------
+**Veľké míľniky** nastávajúlen vtedy, ak sa v kampani udeje čosi, čo ňou značne otrasie: koniec veľkej dejovej línie, porážka hlavného záporáka, či iná veľká podobná zmena, ktorá sa odrazí v celom hernom svete.
+
+Míľniky sú o získavaní moci. Výzvy všerajška už nedokážu viac ohroziť postavy, a prekážky budúcnosti budú musieť byť významnejšie, lepšie naplánované a zložitejšie, ak majú zastaviť postavy.
+
+Dosiahnutie veľkého míľnika dáva výhody významného a *zároveň* malého míľnika. Navyše môžes využiť *všetky* nasledovné možnosti:
+
+* Získať dodatočný bod obnovy, ktorý môžeš ihneď využiť na nákup obnovy, ak chceš.
+* Premenovať koncept postavy (voliteľne).
+
+<div markdown="1" class="blacksidebar">
+# Zvyšovanie bonusov prístupov
+Ak si zvýšiš bonus niektorého prístupu, nezabudni na jediné pravidlo: Bonus prístupu nikdy nemôže byť lepší než Vynikajúci (+5).
+</div>
+
