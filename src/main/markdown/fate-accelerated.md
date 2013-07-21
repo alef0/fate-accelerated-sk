@@ -505,3 +505,99 @@ Na konci každej scény si zruš značky vo všetkých kolónkach stresu. Zotave
 
 Stredne závažné a závažné dôsledky budeš musieť trpieť dlhší čas. Niekedy je preto vhodné zmeniť názov aspektu tak, aby lepšie zodpovedal odohrávajúcemu sa príbehu. Napríklad ***Bolestivo zlomená noha*** sa môže po pomoci lekára zmeniť na ***Krívanie o barliach***, čo môže dávať väčší zmysel. 
 </div>
+
+Aspekty a body osudu
+====================
+**Aspekt** je slovo alebo fráza, ktorá hovorí niečo zvláštne o osobe, mieste, veci, situácii či skupine.  Takmer čokoľvek, čo ti napadne, môže mať aspekty. Postava môže byť ***Najväčším šermiarom Mračného mora***. Ak prevrhneš lampu s olejom, miestnosť bude ***V plameňoch***. Po tom, čo si strojom času preletel do minulosti a uvidel dinosaura, môžeš byť ***Vystrašený***. Aspekty ti umožňujú meniť príbeh takým spôsobom, ktorý bude ladiť so zámermi postavy, jej zručnosťami, ale aj problémami.
+
+Silu aspektov odomkneš **míňaním bodov osudu** (ktoré môžeš evidovať mincami, korálkami, žetónmi a podobne), čím ich vieš využiť a pomôcť si nimi. Na druhej strane môžeš **zarábať** body osudu, ak umožníš niekomu **vynútiť** tvoj aspekt postavy a tým ti skomplikovať situáciu či sťažiť život. Nezabudni si poznačiť počet bodov osudu, ktorý ti zostal po skončení herného sedenia. Ak ich máš viac než je tvoja obnova, začni ďalšie sedenie s toľkými bodmi osudu, s koľkými si skončil predošlé hranie.
+
+> Obnova: str. XXX [11]
+
+<div markdown="1" class="example">
+Počas herného sedenia si si zarobil množstvo bodov osudu: na konci ti ich ostalo až päť. Tvoja obnova je 2, čiže ďalšie herné sedenie začneš s piatimi bodmi. Zoberme si iného hráča, ktorému na konci hrania ostal len jediný bod. Jeho obnova je 3, čo znamená, že ďalšie sedenie začne s troma bodmi osudu namiesto jedného.
+</div>
+
+Aké druhy aspektov existujú?
+----------------------------
+Existuje pestré množstvo aspektov, ale bez ohľadu na to, ako sa nazývajú, všetky fungujú viacmenej rovnako. Hlavný rozdiel spočíva v tom, ako dlho zotrvajú v hre. 
+
+**Aspekty postavy:** Tieto aspekty sú uvedené na tvojom liste postavy a patrí medzi ne koncept postavy a jej problém. Opisujú osobnostné črty, dôležité detaily o milnulosti, vzťahy s ostatnými, dôležité predmety či tituly, ktoré máš, ťažkosti, s ktorými sa potrebuješ vysporiadať, ciele, ktoré chceš dosiahnuť, povesť, ktorú si musíš udržiavať či záväzky, ktoré musíš dodržať. Tieto aspekty sa menia len za veľmi zriedkavých okolností a väčšina s nich ostane navždy rovnaká.
+
+> Koncept: str. XXX [8]ň
+
+> Problém: str. XXX [9]
+
+<div markdown="1" class="example">
+<span class="exampleLabel">Príklady:</span>
+Kapitán letolode Nimbus; Na úteku pred Rytiermi kruhu; Dbá na detaily; Musím ochrániť brata
+</div>
+
+**Situačné aspekty:** Tieto aspekty opisujú prostredie a okolie, v ktorom sa odohráva akcia. V tom sú obsiahnuté aspekty, ktoré vytvoríš či objavíš pomocou akcie **Získanie výhody**. Situačný aspekt obvykle zmizne po skončení scény, ktorej bol súčasťou, či v prípade, že ho niekto svojim konaním zmení či odstráni. V podstate trvajú len tak dlho, kým pretrváva situačný prvok, ktorý reprezentujú.
+
+<div markdown="1" class="example">
+<span class="exampleLabel">Príklady:</span>
+V plameňoch; Oslepujúce slnko; Rozhnevaný dav; Zhodený na zem
+</div>
+
+**Následky:** Tieto aspekty zodpovedajú zraneniam či iným dlhotrvajúcim traumám, ktoré vyplývajú z úspešných útokov. Miznú pomerne pomaly, ako je uvedené v *Au! Zranenie, stres a následky*. [XXX]
+
+<div markdown="1" class="example">
+<span class="exampleLabel">Príklady:</span>
+Vytknutý členok; Strach z pavúkov; Otras mozgu; Paralyzujúce pochybnosti
+</div>
+
+> Zotavovanie z následkov: str. XXX [24]
+
+**Posilnenia:** Posilnenie je dočasný aspekt, ktorý môžeš jednorazovo využiť a potom zmizne. (Pozri ďalšiu časť *Čo robiť s aspektami?* [XXX]) Nevyužité posilnenia zmiznú potom, čo skončí scéna, v ktorej boli prítomné alebo potom, čo výhoda, ktorú predstavujú, už nedáva zmysel. Predstavujú krátkodobé a premenlivé výhody, ktoré vyplývajú z konfliktov s ostatnými.
+
+<div markdown="1" class="example">
+<span class="exampleLabel">Príklady:</span>
+V zameriavadle; Vyrušený; Nestabilná podlaha; Kamienok v topánke
+</div>
+
+Čo robiť s aspektami?
+---------------------
+S aspektami môžeš robiť tri veľké veci: **vyvolávať** ich, **vynútiť** a využiť ich na **ustanovenie faktov**.
+
+### Vyvolávanie aspektov
+**Vyvolaním**aspektu môžeš získať bonus alebo sťažiť veci protivníkovi. Vyvolať môžeš akýkoľvek aspekt a) o ktorom vieš b) a dokážeš vysvetliť, ako ho využiješ na získanie výhody, čo platí aj pre aspekty inej postavy či situácie. Za vyvolanie aspektu musíš zvyčajne zaplatiť bod osudu. Inými slovami, odovzdaj jeden žetón Sprievodcovi. Ak vyvoláš aspekt, musíš popísať, akým spôsobom ti pomôže v terajšej situácii.
+
+
+<div markdown="1" class="example">
+*	Útočím na zombiu mečom. Viem, že zombie sú ***Pomalé***, čo mi pomôže.
+*	Chcem toho človeka vystrašiť. Počul som, že sa ***Bojí myší***, preto mu do spálne vpustím myš.
+*	Keďže je strážnik ***Vyrušený***, mal by som sa vedieť prešmyknúť poza neho.
+*	Toto kúzlo musí byť mimoriadne silné, ale keďže som ***Arcimág Prastarého rádu***, silné kúzla sú môj denný chlebíček. 
+</div>
+
+<div markdown="1" class="blacksidebar">
+# Konflikty medzi hráčmi
+Jediný prípad, keď bod osudu neplatíš Sprievodcovi, nastáva v konflikte s iným hráčom. Ak v ňom vyvoláš aspekt postavy iného hráča, ktorý ti voči nemu pomôže, bod osudu nezíska Sprievodca, ale tento hráč, a to po skončení scény.
+</div>
+
+Čo získaš vyvolaním aspektu? Zvoľ si jednu z nasledovných možností:
+
+*	Pripočítaj k hodu bonus +2. Toto ťa stojí jeden bod osudu.
+*	Zopakuj hod. Táto možnosť je najlepšia v prípade, že si hodil naozaj zle (zvyčajne -3 či -4). Stojí ťa to jeden bod osudu.
+*	Skomplikuj situáciu protivníkovi. Túto možnosť použi vtedy, ak sa protivník o čosi pokúša a máš pocit, že aspekt mu v tom môže zabrániť. Ak sa emzák snačí vytasiť blasterovú pištoľ, ale je ***Zasypaný troskami***, môžeš minúť bod osudu, vyvolať tento aspekt a zvýšiť tým úroveň náročnosti pre protivníka o 2 body.
+*	Pomôcť spojencovi pomocou aspektu. Použi túto možnosť, ak tvoj kamarát potrebuje pomoc a máš pocit, že aspekt mu ju poskytne. Zaplať bod osudu, vyvolať aspekt a poskytni spojencovi bonus +2 k hodu.
+
+*Dôležité:* Pri danom hode môžeš jeden aspekt vyvolať len raz. To znamená, že nie je možné zaplatiť celú dávku bodov osudu za jeden aspekt a získať tým obrovský bonus k hodu. Na druhej strane však **môžeš* vyvolať pri jednom hode viacero aspektov.
+
+Ak vyvolávaš aspekt na to, aby si získal bonus či znovu hodil kockami, urob to *až po hode*. Nemá zmysel mínať body osudu zbytočne!
+
+**Bezplatné vyvolania:** Niekedy je možné vyvolať aspekt aj zadarmo, bez zaplatenia bodu osudu. Ak vytvoríš či objavíš aspekt pomocou akcie *Získanie výhody*, prvé vyvolanie (či už tebou alebo tvojim spojencom) je zadarmo. Ak uspeješ vo veľkom štýle, získaš dokonca dve bezplatné vyvolania. Ak svojim útokom spôsobíš následok, ty alebo tvoj spojenec ho môže raz bezplatne vyvolať. **Posilnenie** je zvláštnym typom aspektu, ktorý poskytne jedno bezplatné vyvolanie a potom zmizne.
+
+> Úspech vo veľkom štýle: str. XXX [13]
+
+> Posilnenia: str. XXX [26]
+
+### Vynucovanie aspektov
+Ak máš aspekt, alebo si v okolí aspektu, z ktorého vyplýva, že tvoja situácia je zrazu dramatickejšia či komplikovanejšia, dávaš komukoľvek možnosť ho **vynútiť**. Môžeš to dokonca spraviť aj ty (nazýva sa to **samovynútenie**). Vynucovanie aspektov je tradičný spôsob, ktorým môžu hráči získavať body osudu.
+
+Existujú dva druhy vynucovania:
+
+**Vynútenie rozhodnutia:** Tento druh vynútenia naznačuje, akú voľbu má urobiť tvoja postava. Ak je napríklad ***Princeznou Alarie***, znamená to, že by si mal ostať brániť Alarijský palác a nie utekať do bezpečia. 
+
+
