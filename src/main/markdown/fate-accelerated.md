@@ -1,5 +1,9 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
+<div id="attribution">
+This work is based on Fate Core System and Fate Accelerated Edition (found at http://www.faterpg.com/), products of Evil Hat Productions, LLC, developed, authored, and edited by Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, Mike Olson, Clark Valentine, Amanda Valentine, Fred Hicks, and Rob Donoghue, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (http://creativecommons.org/licenses/by/3.0/).
+</div>
+
 Začíname!
 =========
 Spomínate si na knihy, kde tínedžerskí čarodejovia bojovali s Temným pánom Zla? Na film, kde trpaslíci bojovali za vydobytie domoviny pod Horou spod nadvlády draka? Na animovaný seriál, kde tajomní rytieri a ich armáda klonov naprávali krivdy v celej galaxii?
@@ -7,7 +11,7 @@ Spomínate si na knihy, kde tínedžerskí čarodejovia bojovali s Temným páno
 No neboli *úžasné*?
 
 Toto je príležitosť, kde sa môžete ocitnúť v koži hrdinov a prežiť spolu s nimi vzrušujúce príbehy.
-*Zrýchlená edícia Fate* je stolová hra na hrdinov, v ktorej spoločne s priateľmi vyrozprávate príbehy plné nebezpečenstva, vzrušenia a dobrodružných situácií. Možno ste už čosi také hrali -- napríklad všeobecne známe *Dračí doupě*. Ak nie, nemajte obavy, táto príručka vás bude v týchto príbehoch po celý čas doprevádzať.
+*Fate z rýchlika* je stolová hra na hrdinov, v ktorej spoločne s priateľmi vyrozprávate príbehy plné nebezpečenstva, vzrušenia a dobrodružných situácií. Možno ste už čosi také hrali -- napríklad všeobecne známe *Dračí doupě*. Ak nie, nemajte obavy, táto príručka vás bude v týchto príbehoch po celý čas doprevádzať.
 
 Ku hre budete potrebovať:
 
@@ -21,11 +25,11 @@ Ku hre budete potrebovať:
 *	**žlté samolepiace papieriky** alebo podobné ústrižky papiera
 *	**žetóny pre body osudu**. Môžete použiť žetóny z pokru, korálky, drobné mince a podobne. Budete ich potrebovať za pár hrstí -- zhruba 30 či 40.
 
-Teraz je čas porozprávať sa o tom, ako používať *Zrýchlený Fate* na spoločné rozprávanie príbehov.
+Teraz je čas porozprávať sa o tom, ako používať *Fate z rýchlika* na spoločné rozprávanie príbehov.
 
 Spoločné rozprávanie príbehov
 =============================
-Zhromaždili ste kamarátov, máte pred sebou kopu kociek a papierikov a všetci sa tešíte na hru *Zrýchlenej edície Fate* (odteraz ju budeme volať *FAE*). Čas rozprávať príbehy!
+Zhromaždili ste kamarátov, máte pred sebou kopu kociek a papierikov a všetci sa tešíte na hru *Fate z rýchlika* (odteraz ju budeme volať *FAE*). Čas rozprávať príbehy!
 
 Čo myslíte pod "rozprávať príbehy"?
 -----------------------------------
@@ -233,7 +237,6 @@ Potom, čo hodíš kockami, pripočítaj k výsledku bonus prístupu (povieme o 
 
 Teraz, keď sme pokryli výsledky hodov, je čas porozprávať sa o akciách a o tom, ako s nimi súvisia výsledky hodov.
 
-
 Akcie
 -----
 Opísal si, čo sa tvoja postava pokúša spraviť a dohodol si sa na tom, že je istá šanca, že sa jej to nemusí podariť. V ďalšom kroku urči, aká **akcia** najlepšie vystihuje, čo chceš dosiahnuť. Jestvujú štyri základné akcie, ktoré pokryjú akýkoľvek úmysel v hre.
@@ -258,6 +261,7 @@ Opísal si, čo sa tvoja postava pokúša spraviť a dohodol si sa na tom, že j
 *	**Ak uspeješ vo veľkom štýle:** Podarilo sa ti vytvoriť, resp. objaviť aspekt a buď ty alebo tvoj spojenec ho môže bezplatne vyvolať až *dvakrát*. Obvykle nemôžeš vyvolať pri jednom rovnaký aspekt dvakrát, ale toto je výnimka: úspech vo veľkom štýle ti poskytuje VEĽKÚ výhodu!
 
 **Ak sa pokúšaš využiť výhodu z aspektu, o ktorom už vieš:**
+
 *	**Ak neuspeješ:** Z aspektu nezískať žiadnu výhodu. V budúcnosti ho samozrejme môžeš vyvolať, ak chceš, ale len za cenu zaplatenia bodu osudu.
 *	**Ak zremizuješ alebo uspeješ:** Dostaneš jedno bezplatné vyvolanie aspektu, ktoré môžeš buď ty alebo niektorý tvoj spojenec neskôr použiť. Na lístočku s názvom aspektu môžeš nakresliť krúžok alebo štvorček, ktorý po bezplatnom vyvolaní začiarkneš.
 *	**Ak uspeješ vo veľkom štýle:** Získavaš *dve* bezplatné vyvolania aspektu, ktoré môže využiť i tvoj spojenec, ak chceš.
@@ -303,7 +307,7 @@ Akciu *Zdolanie* použi, ak sa potrebuješ dostať za čosi, čo ti bráni v dos
 
 > Rušenie situačných aspektov: str. XXX [26]
 
-* **Ak neuspeješ:* Máš dilemu. Buď jednoducho zlyháš -- dvere ostanú zamknuté, grázel ostane stáť medzi tebou a vchodom, nepriateľská loď ti ostane ***Neustále v pätách*** -- alebo uspeješ za cenu veľkej obety. Možno stratíš dôležitý predmet, ktorý nesieť, možno utrpíš telesnú či duševnú ujmu. Sprievodca ti pomôže určiť, čo presne bude cena, ktorú zaplatíš za úspech.
+* **Ak neuspeješ:** Máš dilemu. Buď jednoducho zlyháš -- dvere ostanú zamknuté, grázel ostane stáť medzi tebou a vchodom, nepriateľská loď ti ostane ***Neustále v pätách*** -- alebo uspeješ za cenu veľkej obety. Možno stratíš dôležitý predmet, ktorý nesieť, možno utrpíš telesnú či duševnú ujmu. Sprievodca ti pomôže určiť, čo presne bude cena, ktorú zaplatíš za úspech.
 * **Ak zremizuješ:** Dosiahneš svoj cieľ, ale musíš zaplatiť drobnú cenu. Sprievodca môže zaviesť istú komplikáciu, alebo predostrieť ťažkú dilemu (môžeš zachrániť len jedného priateľa, ale nie oboch), či vyvolať dejový zvrat. Pozri časť *"Úspech za istú cenu"* vo *Vedení hry* v príručke *Fate Core**, kde nájdeš viaceré nápady.
 * **Ak uspeješ:** Podarilo sa ti dosiahnuť, čo si chcel. Zámok sa otvorí, prešmykneš sa okolo grázla, čo ti blokoval vstup, strasieš sa nepriateľskej lode, čo máš v pätách.
 * **Ak uspeješ vo veľkom štýle:** Vyhodnotí sa podobne ako úspech uvedený vyššie, a navyše dostaneš posilnenie.
@@ -561,7 +565,7 @@ V zameriavadle; Vyrušený; Nestabilná podlaha; Kamienok v topánke
 S aspektami môžeš robiť tri veľké veci: **vyvolávať** ich, **vynútiť** a využiť ich na **ustanovenie faktov**.
 
 ### Vyvolávanie aspektov
-**Vyvolaním**aspektu môžeš získať bonus alebo sťažiť veci protivníkovi. Vyvolať môžeš akýkoľvek aspekt a) o ktorom vieš b) a dokážeš vysvetliť, ako ho využiješ na získanie výhody, čo platí aj pre aspekty inej postavy či situácie. Za vyvolanie aspektu musíš zvyčajne zaplatiť bod osudu. Inými slovami, odovzdaj jeden žetón Sprievodcovi. Ak vyvoláš aspekt, musíš popísať, akým spôsobom ti pomôže v terajšej situácii.
+**Vyvolaním** aspektu môžeš získať bonus alebo sťažiť veci protivníkovi. Vyvolať môžeš akýkoľvek aspekt a) o ktorom vieš b) a dokážeš vysvetliť, ako ho využiješ na získanie výhody, čo platí aj pre aspekty inej postavy či situácie. Za vyvolanie aspektu musíš zvyčajne zaplatiť bod osudu. Inými slovami, odovzdaj jeden žetón Sprievodcovi. Ak vyvoláš aspekt, musíš popísať, akým spôsobom ti pomôže v terajšej situácii.
 
 
 <div markdown="1" class="example">
