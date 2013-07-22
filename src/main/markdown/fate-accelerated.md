@@ -76,7 +76,7 @@ Aspekty umožňujú meniť príbeh spôsobom, ktorý súvisí s cieľmi postavy,
 
 >	Ustanovovanie faktov o prostredí: str. XXX [29]
 
-Tvoja postava bude mať niekoľko aspektov (zvyčajne tri až päť) vrátane **konceptu** a **problému**. Aspektom sa budeme podrobnejšie venovať v časti *Aspekty a body osudu* [XXX], ale tento popis by ti mal postačovať na pochopenie ich základnej myšlienky.
+Tvoja postava bude mať niekoľko aspektov (zvyčajne tri až päť) vrátane **konceptu** a **osobného problému**. Aspektom sa budeme podrobnejšie venovať v časti *Aspekty a body osudu* [XXX], ale tento popis by ti mal postačovať na pochopenie ich základnej myšlienky.
 
 >	Aspekty a body osudu: str. XXX [25]
 
@@ -85,15 +85,15 @@ Najprv pouvažuj nad **konceptom** svojej postavy, čo je stručná fráza či v
 
 <div markdown="1" class="example">
 <span class="exampleLabel">Príklady:</span>
-Mačacia kapitánka Vodomerky Cirrus; Vyvolávač slnka andralskej púšte; Veliaci poľný agent IGEMA
+Mačacia kapitánka Vodomerky Cirrus; Vyvolávač slnka z Andralskej púšte; Veliaci poľný agent IGEMA
 </div>
 
-### Problém
-V ďalšom kroku sa zamysli nad vecou, ktorá ťa vždy dostane do *problému*. Možno je to nejaká osobná slabosť, odveký nepriateľ, s ktorým opakovane zápasíš, či dôležitý záväzok -- hocičo, čo ti dokáže skomplikovať život.
+### Osobný problém
+V ďalšom kroku sa zamysli nad vecou, ktorá ťa predstavuje *osobný problém*, ktorý ťa vždy dostane do ťažkostí. Možno je to nejaká osobná slabosť, odveký nepriateľ, s ktorým opakovane zápasíš, či dôležitý záväzok -- hocičo, čo ti dokáže skomplikovať život.
 
 <div markdown="1" class="example">
 <span class="exampleLabel">Príklady:</span>
-Železní vrahovia ma chcú mŕtveho; Kúzli teraz, pýtaj sa potom; Musím nájsť svojho bračeka
+Oceľoví vrahovia ma chcú vidieť mŕtveho; Kúzli teraz, pýtaj sa potom; Musím nájsť svojho bračeka
 </div>
 
 ### Ďalší aspekt
@@ -110,7 +110,7 @@ Opíš vzhľad svojej postavy a daj jej meno.
 <div markdown="1" class="blacksidebar">
 # Vytváranie postáv za tridsať sekúnd
 
-1. Vytvor dva aspekty (str. XXX): koncept a problém.
+1. Vytvor dva aspekty (str. XXX): koncept a osobný problém.
 2. Vytvor ďalší aspekt.
 3. Pomenuj svoju postavu a popíš jej vzhľad.
 4. Zvoľ si prístupy (str. XXX).
@@ -522,11 +522,11 @@ Aké druhy aspektov existujú?
 ----------------------------
 Existuje pestré množstvo aspektov, ale bez ohľadu na to, ako sa nazývajú, všetky fungujú viacmenej rovnako. Hlavný rozdiel spočíva v tom, ako dlho zotrvajú v hre. 
 
-**Aspekty postavy:** Tieto aspekty sú uvedené na tvojom liste postavy a patrí medzi ne koncept postavy a jej problém. Opisujú osobnostné črty, dôležité detaily o milnulosti, vzťahy s ostatnými, dôležité predmety či tituly, ktoré máš, ťažkosti, s ktorými sa potrebuješ vysporiadať, ciele, ktoré chceš dosiahnuť, povesť, ktorú si musíš udržiavať či záväzky, ktoré musíš dodržať. Tieto aspekty sa menia len za veľmi zriedkavých okolností a väčšina s nich ostane navždy rovnaká.
+**Aspekty postavy:** Tieto aspekty sú uvedené na tvojom liste postavy a patrí medzi ne koncept postavy a jej osobný problém. Opisujú osobnostné črty, dôležité detaily o milnulosti, vzťahy s ostatnými, dôležité predmety či tituly, ktoré máš, ťažkosti, s ktorými sa potrebuješ vysporiadať, ciele, ktoré chceš dosiahnuť, povesť, ktorú si musíš udržiavať či záväzky, ktoré musíš dodržať. Tieto aspekty sa menia len za veľmi zriedkavých okolností a väčšina s nich ostane navždy rovnaká.
 
 > Koncept: str. XXX [8]ň
 
-> Problém: str. XXX [9]
+> Osobný problém: str. XXX [9]
 
 <div markdown="1" class="example">
 <span class="exampleLabel">Príklady:</span>
@@ -789,5 +789,113 @@ Odporúčania:
 
 <div markdown="1" class="blacksidebar">
 # Voliteľné pravidlo: Náročnosti podľa prístupov
-Niekedy sa oplatí zvoliť opatrný prístup; inokedy zase veci príliš spomalí. Sprievodca sa môže rozhodnúť upraviť číslo náročnosti o jednu či dve úrovne podľa toho, či zvolíš vhodný alebo problémový prístup. Môže to 
+Niekedy sa oplatí zvoliť opatrný prístup; inokedy zase veci príliš spomalí. Sprievodca sa môže rozhodnúť upraviť číslo náročnosti o jednu či dve úrovne podľa toho, či zvolíš vhodný alebo problémový prístup. Môže to trochu skomplikovať hru, ale niektorým skupinám sa to veľmi páči.
 </div>
+
+Záporáci
+--------
+Ak vytváraš záporáka, môžeš mu dať rovnaké vlastnosti ako v prípade hráčskych postáv: čiže prístupy, aspekty, stres a následky. To sa týka najmä dôležitých záporákov, či tých, ktorých sa v príbehu ocitnú viackrát, pretože ich účelom je pripraviť postavám krušné chvíle. V rámci scenára však nebudeš potrebovať viac než jednu či dve nehráčske postavy tohto typu.
+
+**Poskokovia:** Ostatní záporáci predstavujú <span class="pojem">poskokov</span> -- teda bezmenných bitkárov, gangstrov a iné potvory, ktoré síce otravujú hráčskym postavám život, ale ich zase možno viacmenej jednoducho poraziť a to najmä v prípade silných hráčskych postáv.
+
+Takto vytvoríš ich štatistiky:
+
+1. 	Vytvor zoznam, v čom je poskok dobrý. Pri práci s týmito vecami dostávajú +2 do všetkých hodov.
+2. 	Vytvor zoznam, v čom je poskok slabý. V týchto činnostiach dostáva postih -2.
+3. 	Pri ostatných činnostiach dostáva k hodu bonus +0.
+4.	Daj poskokovi aspekt či dva, aby si ho podporil v tom, v čom je dobrý a v čom slabý, alebo aby si ukázal mimoriadnu silu či zraniteľnosť. Nebude vôbec prekážať, ak budú aspekty naozaj jednoduché.
+5.	Poskokovia majú v meradle stresu jednu, dve alebo žiadnu kolónku, podľa toho, ako silných ich chceš mať.
+6.	Poskokovia nesmú mať žiadne následky. Ak sa im minú kolónky stresu (alebo nemajú žiadne), ďalší zásah ich vyradí.
+
+<div markdown="1" class="character">
+## Šikanujúci študent fakulty Kyklopa
+#### Šikanujúci študent fakulty Kyklopa, Bez posíl je zbabelcom
+
+**Zručný (+2):** zastrašovanie iných študentov, vycúvanie z problémov, kazenie vecí
+**Neschopný (+2):** plánovanie, študnovanie
+**Stres:** žiadny (prvý zásah ho vyradí)  
+</div>
+
+<div markdown="1" class="example">
+## Oceľový vrah
+#### Oceľový vrah, Noc je len naša
+
+**Zručný (+2):** Zakrádanie, prepadávanie
+**Neschopný (+2):** Bránenie sa voči odhodlaným protivníkom
+**Stres:** []  
+</div>
+
+<div markdown="1" class="example">
+## Žralok nebies
+#### Som žralok, Zraniteľné brucho
+
+**Zručný (+2):** lietanie, hryzenie
+**Neschopný (+2):** všetko, čo nelieta a nehryzie
+**Stres:** [] []  
+</div>
+
+**Skupiny poskokov:** Ak chceš na hráčske postavy poslať tlupu slabých poskokov, uľahči si prácu tým, že ich budeš považovať za skupinu (alebo niekoľko skupín). Namiesto sledovania tucta záporákov ti stačí dávať pozor na tri skupiny po štyroch grázlov. Každá skupina koná ako jedna postava a má rovnaké schopnosti aké by mal jediný poskok:
+
+1. 	Vytvor niekoľko vecí, v čom je skupina dobrá. Dobrý príklad je "spolčovanie sa voči...". 
+2. 	Vytvor pár vecí, v čom skupina nie je až taká schopná.
+3. 	Daj jej aspekt.
+4.	Za každých dvoch členov vytvor jednu kolónku stresu.
+
+<div markdown="1" class="example">
+## Tlupa gangstrov
+#### Poriská od sekery a krompáče
+
+**Zručný (+2):** Spolčovanie sa, zastrašovanie nevinných občanov
+**Neschopný (+2):** Premýšľanie vopred, boj s prevahou
+**Stres:** [] [] (4 grázlovia)
+</div>
+
+*Fate Core* ponúka ďalší spôsob, ako sa s tým vysporiadať, nazývaný *dav* (pozri sekciu *Tvorba protivníkov* v kapitole *Vedenie hry* v príručke *Fate Core*) Ak chceš, môžeš použiť aj túto možnosť. Daj však pozor, že tým môžeš vytvoriť naozaj silné davy (pokiaľ nepoužiješ mimoriadne slabých poskokov), čiže ak chceš predložiť pred postavy naozaj veľkú výzvu, toto je jeden zo spôsobov.
+
+Ukážkové postavy
+================
+V tejto časti predstavujeme štyri ukážkové postavy, ktoré môžeš použiť buď priamo pre svoju hru alebo sa nimi inšpirovať pri tvorbe svojich postáv.
+
+Reth, z Andralského odporu
+--------------------------
+Reth má štrnásť rokov, tmavohnedú pleť a čierne vlasy, ktoré nosi zapletené do hrubých dreadov. Nosí ľahké voľné oblečenie a sandále a je zručný v bojových umeniach. Je to najmocnejší Vyvolávač slnka, ktorý sa zrodil po mnoho generácií -- dokáže magicky privolať moc ohňa. Jeho pôvod je v rozhľahlej Andralskej púšti, ale odkedy sa spolu s priateľmi postavil na odpor voči invázii Impéria ocele, je na úteku.
+
+<div markdown="1" class="sampleCharacter">
+# Reth
+**Koncept:** Vyvolávač slnka z Andralskej púšte
+
+**Osobný problém:** Oceľoví vrahovia ma chcú vidieť mŕtveho
+
+**Ďalšie aspekty:** Moje kung fu je nasilnejšie; Zamilovaný do Avasy; Učím sa zo Seriových skúseností
+
+## Prístupy
+**Opatrný:** Obstojný (+2)
+
+**Chytrý:** Všedný (+1)
+
+**Ohurujúci:** Slabý (+2)
+
+**Rázny:** Dobrý (+3)
+
+**Rýchly:** Obstojný (+2)
+
+**Ľstivý:** Všedný (+1)
+
+## Špeciality
+**Postoj Vzdorovitého slnka:** Pretože som sa zdokonalil v postoji Vzdorovitého slnka, získavam bonus +2, keď sa rázne bránim v prípade, že bojujem bez zbrane.  
+
+*(Môže si zobrať ešte dve špeciality bez toho, aby si znížil obnovu!)*
+
+## Stres [ ][ ][ ]
+
+## Následky
+
+**Mierne závažné (2):**
+
+**Stredne závažné (4):**
+
+**Závažné (6):**
+
+## Obnova: 3
+</div>
+  
