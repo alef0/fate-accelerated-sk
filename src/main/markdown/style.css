@@ -20,6 +20,20 @@
 	margin-top: 0pt;
 }
 
+.blacksidebar h2 {
+	background: black;
+	color: white;
+	font-size: medium;
+	text-align: center;
+	padding-top: 0pt;
+	margin-top: 0pt;
+}
+
 .pojem {
 	font-weight: bold;
+}
+
+#attribution {
+	background: #AEAEAE;
+	font-style: italic;
 }
